@@ -61,7 +61,7 @@ for k in range(rounds):
     coop_ratio = sum(1 for s in agents.values() if s == 'C') / N
     cooperation.append(coop_ratio)
 
-# Affichage des résultats
+#resultados
 for i, c in enumerate(cooperation, 1):
     print(f"Ronda {i} : Cooperación media = {c:.2f}")
 plt.plot(range(1, rounds + 1), cooperation, marker='o', color='green')
