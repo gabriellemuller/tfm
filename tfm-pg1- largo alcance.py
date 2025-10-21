@@ -13,7 +13,7 @@ import matplotlib.pyplot as plt
 import csv
 
 # ----------------------- PARÁMETROS -----------------------
-N = 300                 # Nodos
+N = 200                 # Nodos
 network_type = 'ba'     # Tipo de red: 'er' (Erdos-Renyi) o 'ba' (Barabasi-Albert)
 z = 6                   # Grado promedio (ER: prob = z/(N-1), BA: m = z//2)
 L = 4                   # Número máximo de capas/distancias de vecinos (Largo Alcance)
@@ -32,8 +32,7 @@ save_csv = True         # Guardar datos en CSV
 csv_filename = "vigilance_pd_timeseries.csv"
 # ----------------------------------------------------------
 
-def build_network(N, network_type, z, seed=None):
-    """Construye la red según el tipo especificado."""
+def build_network(N, network_type, z, seed=None): #Construye la red según el tipo especificado.
     if network_type == 'er':
         p = z / max(1, (N - 1))
         G = nx.erdos_renyi_graph(N, p, seed=seed)
@@ -43,15 +42,14 @@ def build_network(N, network_type, z, seed=None):
     else:
         raise ValueError("network_type must be 'er' or 'ba'")
         
-    # Eliminar nodos aislados (si existen) y re-etiquetar
+    # Eliminar nodos aislados (si existen) 
     isolates = list(nx.isolates(G))
     if isolates:
         G.remove_nodes_from(isolates)
         G = nx.convert_node_labels_to_integers(G)
     return G
 
-def precompute_layers(G, L):
-    """Pre-calcula los conjuntos de vecinos por distancia (capa) para cada nodo."""
+def precompute_layers(G, L): #Pre-calcula los conjuntos de vecinos por distancia (capa) para cada nodo.
     layers = {i: [set() for _ in range(L)] for i in G.nodes()}
     for i in G.nodes():
         dist = {i: 0}
@@ -76,8 +74,7 @@ def precompute_layers(G, L):
     layer_counts = {i: np.array([len(layers[i][l]) for l in range(L)], dtype=float) for i in G.nodes()}
     return layers, layer_counts
 
-def compute_influence_precomputed(vigilant, layers, layer_counts, alpha):
-    """Calcula el Índice de Influencia Efectiva (I_i) usando pesos pre-calculados (alpha)."""
+def compute_influence_precomputed(vigilant, layers, layer_counts, alpha): #Calcula el Índice de Influencia Efectiva (I_i) usando pesos pre-calculados (alpha).
     I = {}
     for i, layer_sets in layers.items():
         influence = 0.0
