@@ -138,8 +138,9 @@ def run_simulation(N=N, network_type=network_type, z=z, L=L, lam=lam,
 
         # b) Actualizar T_i (Temptation modulada)
         for i in G.nodes():
-            T_i[i] = R + (T_param - R) * (1 - I[i])
-
+            # T_i = R + (T_global - R) * (1 - I_i)
+            T_i[i] = R + (T_param - R) * (1 - I[i]) 
+            print(T_i[i])
         # c) Actualizar estado de Vigilancia
         for i in G.nodes():
             # Solo los Cooperadores pueden ser Vigilantes, y solo si superan el umbral I_i > theta
@@ -174,8 +175,14 @@ def run_simulation(N=N, network_type=network_type, z=z, L=L, lam=lam,
             j = random.choice(neighs) # Elegir un vecino para potencialmente imitar
             
             if payoff[j] > payoff[i]:
-                # Factor de normalización Phi (del modelo)
-                phi = max(degrees[i], degrees[j]) * (max(1.0, T_param) - min(0.0, S)) 
+                # --------------------- MODIFICACIÓN DE PHI (NORMALIZACIÓN LOCAL) ---------------------
+                # La normalización debe reflejar el rango real de Payoff local (usando T_i local)
+                # Rango de Payoff = max(T_i[i], T_i[j]) - min(S, P)
+                max_payoff_range = max(T_i[i], T_i[j]) - min(S, P)
+                
+                # Phi = max(degrees) * Rango Máximo de Payoff individual
+                phi = max(degrees[i], degrees[j]) * max_payoff_range
+                # --------------------------------------------------------------------------------------
                 
                 if phi > 0:
                     prob = (payoff[j] - payoff[i]) / phi
@@ -239,22 +246,3 @@ def plot_and_save(results, generations, save_plot=True, plot_filename="vigilance
             for g, (c, v, t) in enumerate(zip(coop, vig, avgT)):
                 writer.writerow([g, c, v, t])
         print(f"> Datos de series de tiempo guardados en {csv_filename}")
-
-if __name__ == "__main__":
-    # Ejecutar la simulación con los parámetros globales
-    
-    print(f"--- SIMULACIÓN DE PRUEBA ---")
-    print(f"Parámetros: Red={network_type.upper()}, λ={lam}, T={T_param}, θ={theta_global}")
-    
-    results = run_simulation(
-        N=N, network_type=network_type, z=z, L=L, lam=lam,
-        R=R, T_param=T_param, S=S, P=P,
-        generations=generations, seed=seed,
-        theta_global=theta_global, initial_coop_frac=initial_coop_frac
-    )
-
-    print(f"Fracción final de Cooperadores: {results['final_coop']:.3f}")
-    print(f"Fracción final de Vigilantes:    {results['final_vig']:.3f}")
-
-    plot_and_save(results, generations, save_plot=save_plot, plot_filename=plot_filename,
-                  save_csv=save_csv, csv_filename=csv_filename, show_plot=True)

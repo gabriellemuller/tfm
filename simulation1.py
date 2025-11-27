@@ -12,7 +12,7 @@ from tfm_pg1 import run_simulation  # ⚠️ Vérifie le nom exact du module
 # ----------------------- PARAMÈTRES GLOBAUX -----------------------
 N = 200                 # Nombre de nœuds
 network_type = 'er'     # 'er' ou 'ba'
-z = 4                   # Degré moyen
+z = 4                  # Degré moyen
 L = 4                   # Portée des interactions (L=1 = voisins directs)
 lam = 0.5               # Facteur d’atténuation
 R, S, P = 1.0, 0.0, 0.0 # Paiements
@@ -57,11 +57,11 @@ plt.ylim(-0.05, 1.05)
 plt.legend(title="θ")
 plt.grid(alpha=0.3)
 plt.tight_layout()
-plt.savefig(f"rho_vs_b_L{L}_mean25.png", dpi=150)
+plt.savefig(f"rho_vs_b_L{L}_{network_type}_Z{z}_mean25.png", dpi=150)
 plt.show()
 
 # ------------------ SAUVEGARDE CSV ------------------
 header = "b," + ",".join([f"theta_{th}" for th in theta_values])
 data_to_save = np.column_stack([b_values, rho_means.T])
-np.savetxt(f"rho_vs_b_L{L}{network_type}_mean25.csv", data_to_save, delimiter=",", header=header, comments="")
-print(f"> Résultats sauvegardés dans rho_vs_b_L{L}_{network_type}_Z{z}_mean25.csv et rho_vs_b_L{L}{network_type}_mean25.png")
+np.savetxt(f"rho_vs_b_L{L}{network_type}_Z{z}_mean25.csv", data_to_save, delimiter=",", header=header, comments="")
+print(f"> Résultats sauvegardés dans rho_vs_b_L{L}_{network_type}_Z{z}_mean25.csv et rho_vs_b_L{L}_{network_type}_Z{z}_mean25.png.png")
