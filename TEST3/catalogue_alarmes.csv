@@ -1,0 +1,1543 @@
+﻿alarm_code;description
+120-001f;No se encuentra el fichero '/mnt/tnc/CAM/DESBASTE_A-1.4_RESTO_DE_Z90_A_FONDO.h'
+120-001f;No se encuentra el fichero '/mnt/pcfox/(2H)COPIADO_DFN_A-1.6_LATERAL_1_H2.h'
+120-001f;No se encuentra el fichero '/mnt/pcfox/(30MIN)COPIADO_DFN_A-1.6_FONDO_1.3_H1.h'
+120-001f;No se encuentra el fichero '/mnt/tnc/CAM/ACABADO_DFN.h'
+120-001f;No se encuentra el fichero '/mnt/tnc/CAM/COPIADO_DFN_A0_2-Farid.h'
+120-001f;No se encuentra el fichero '/mnt/tnc/CAM/DESBASTE_A-1.4_Z145_A_Z90.h'
+120-001f;No se encuentra el fichero '/mnt/pcfox/4_TORTA_BRC5_HSS.h'
+120-001f;No se encuentra el fichero '/mnt/pcfox/COPIADO_A1.4_FONDO_1.2_H1.h'
+120-001f;No se encuentra el fichero '/mnt/tnc/CAM/CON_GRAPAS_ZONA_PICO.h'
+120-001f;No se encuentra el fichero '/mnt/tnc/CAM/BOLA12_FINAL.h'
+120-001f;No se encuentra el fichero '/mnt/tnc/CAM/ALIVIO_RADIOS_4.h'
+120-001f;No se encuentra el fichero '/mnt/tnc/CAM/DESBASTE_P66_RAIL.h'
+120-001f;No se encuentra el fichero '/mnt/pcfox/ROSCA2.h'
+120-001f;No se encuentra el fichero '/mnt/tnc/CAM/3_desbaste_t50.h'
+120-001f;No se encuentra el fichero '/mnt/tnc/CAM/DESBASTE_P50_RAIL.h'
+120-001f;No se encuentra el fichero '/mnt/pcfox/COPIADO_DFN_A-1.6_FONDO_1_H2.h'
+120-001f;No se encuentra el fichero '/mnt/tnc/CAM/DES1.4_SUP_P32_PMF.h'
+120-001f;No se encuentra el fichero '/mnt/pcfox/METRICA_20_Y_32_L1.h'
+125-0064;Aplicación ahora disponible
+130-0001;Proceso de datos erróneo
+130-009a;Error sistema de ficheros
+130-009b;Fichero no encontrado
+130-009e;Acceso al fichero imposible
+130-00a2;Acceso al fichero imposible
+130-00a3;Unidad de disco no preparada
+130-019b;No se encuentra el fichero 'TURBO_66_L270.h'
+130-019b;No se encuentra el fichero 'MARCAJE FRESA3.h'
+130-019b;No se encuentra el fichero 'COP_FINAL_LAT-INT_LADO-(Y-NEGATIVO).h'
+130-019b;Por favor, esperar ... se carga la estructura
+130-019b;¡ Introducir elemento !
+130-019b;No se encuentra el fichero 'abrir_44_3.h'
+130-019b;No se encuentra el fichero 'PLANEAR_125_WNT_12P.h'
+130-019b;No se encuentra el fichero 'PROF_1.h'
+130-019b;No se encuentra el fichero 'ACABADOI-20H7.h'
+130-019b;Frase actual (7864) no seleccionada
+130-019b;No se encuentra el fichero 'PLATO_50.h'
+130-019b;No se encuentra el fichero '10_H7_FINAL.h'
+130-019b;Frase actual (8238) no seleccionada
+130-019b;Búsqueda frase interrum. en frase 27798. Utilizar función búsqueda.
+130-019b;Frase actual (66815) no seleccionada
+130-019b;Valor fuera de rango [-999999999...+999999999]
+130-019b;No se encuentra el fichero 'CAVITY_TURBO_50_L3130.h'
+130-019b;Búsqueda frase interrum. en frase 85969. Utilizar función búsqueda.
+130-019b;Transferencia de datos finalizada
+130-019b;No se encuentra el fichero 'PUNTEOS.h'
+130-019b;No se encuentra el fichero 'RANURA.h'
+130-019b;No se encuentra el fichero 'TALADROS_ALZA_2.h'
+130-019b;No se encuentra el fichero '10_H7.h'
+130-019b;No se encuentra el fichero 'TURBO16.h'
+130-019b;Frase actual (1554) no seleccionada
+130-019b;Frase actual (877) no seleccionada
+130-019b;No se encuentra el fichero 'SEMI_A0.25_DFN.h'
+130-019b;No se encuentra el fichero 'PLATO200.h'
+130-019b;No se encuentra el fichero 'LADO1.h'
+130-019b;El acceso a 'TNC:\\CAM\\TORBE PEQUE.h' está bloqeuado
+130-019b;Valor fuera de rango [-359.98...+359.98]
+130-019b;Frase actual (1459) no seleccionada
+130-019b;Frase actual (30580) no seleccionada
+130-019b;No se encuentra el fichero 'POLATO_50_L130.h'
+130-019b;Formato frase incorrecto
+130-019b;No se encuentra el fichero 'PLATO80_L280_3.h'
+130-019b;No se encuentra el fichero 'SEMI_FRESA_10_L40_NUEVA.h'
+130-019b;Texto no encontrado
+130-019b;No se encuentra el fichero 'BROCA16Z.h'
+130-019b;No se encuentra el fichero '3_operaciones_bola_12.h'
+130-019b;No se ha podido ejecutar Inicio. Reiniciar de nuevo.
+130-019b;Valor fuera de rango [0...999999.999]
+130-019b;No se encuentra el fichero 'PUNTEO_2.h'
+130-019b;Activar en el volante
+130-019b;No se encuentra el fichero 'PLATO63.h'
+130-019b;No se encuentra el fichero 'FRESA16_NUEVA_A-0.02.h'
+130-019b;No se encuentra el fichero 'SEMI_PLANEADO_SUFRIDERAS.h'
+130-019b;No se encuentra el fichero 'BROCA_5_MD-ALARGADOR.h'
+130-019b;Búsqueda frase interrum. en frase 121550. Utilizar función búsqueda.
+130-019b;Frase actual (335501) no seleccionada
+130-019b;Frase actual (2121) no seleccionada
+130-019b;No se encuentra el fichero 'BROCA42.h'
+130-019b;No se encuentra el fichero 'FRESA10_L40_NUEVA.h'
+130-019b;No se encuentra el fichero 'FRESA12_L70.h'
+130-019b;Valor fuera de rango [-99.9999...+99.9999]
+130-019b;Búsqueda frase interrum. en frase 20023. Utilizar función búsqueda.
+130-019b;No se encuentra el fichero 'TORBE_GRANDE.h'
+130-019b;No se encuentra el fichero 'COPIADO_DFN_A-1_FONDO_H1.h'
+130-019b;No se encuentra el fichero 'M_22_COMPLETO_2.h'
+130-019b;Frase actual (362) no seleccionada
+130-019b;No se encuentra el fichero 'BROCA_8_L120.h'
+130-019b;No se encuentra el fichero 'BROCA10.2L70_ALAR.h'
+130-019b;No se encuentra el fichero 'TURBO66.h'
+130-019b;Frase actual (28649) no seleccionada
+130-019b;Cabecera PGM no modificable
+130-019b;No se encuentra el fichero 'ACABADO_RANURA_140.5.h'
+130-019b;No se encuentra el fichero 'CHAFLANES_INTERIOR.h'
+130-019b;No se encuentra el fichero 'MACHO_M12_L40_CIEGO.h'
+130-019b;No se encuentra el fichero 'FRESA_8.h'
+130-019b;No se encuentra el fichero 'PLATO125.h'
+130-019b;No se encuentra el fichero 'ACABADO RANURA1 _22H12.h'
+130-019b;No se encuentra el fichero 'BROCA10.2__L70.h'
+130-019b;Valor fuera de rango 0.0001 hasta 10
+130-019b;Frase actual (75) no seleccionada
+130-019b;Carácter búsqueda inexistente
+130-019b;Frase actual (200) no seleccionada
+130-019b;Frase actual (11627) no seleccionada
+130-019b;No se encuentra el fichero 'TURBO66_-6.5.h'
+130-019b;No se encuentra el fichero 'CHAFLANES.h'
+130-019b;Frase actual (1418) no seleccionada
+130-019b;No puede suministrarse ninguna ayuda online para este error!
+130-019b;Falta elemento requerido
+130-019b;No se encuentra el fichero 'M20.h'
+130-019b;No se encuentra el fichero 'MACHO24.h'
+130-019b;Búsqueda frase interrum. en frase 20021. Utilizar función búsqueda.
+130-019b;El acceso a 'TNC:\\CAM\\ACABADO RANURA _22H12_0.09.h' está bloqeuado
+130-019b;Continuación programa imposible
+130-019b;No se encuentra el fichero 'L2.h'
+130-019b;No se encuentra el fichero 'CANTEANDOD10-1.h'
+130-019b;No se encuentra el fichero 'CAJERAS_D14.h'
+130-019b;Elemento sintaxis no modificable
+130-019b;Frase actual (365) no seleccionada
+130-019b;No se encuentra el fichero 'TURBO_32.h'
+130-019b;No se encuentra el fichero 'RESTO_TALADROS.h'
+130-019b;No se encuentra el fichero 'M32_LADO_1_CHAFLANES.h'
+130-019b;Frase actual (127) no seleccionada
+130-019b;No se encuentra el fichero 'M8.h'
+130-019b;Frase actual (434) no seleccionada
+130-019b;No se encuentra el fichero 'CANCAMO.h'
+130-019b;No se encuentra el fichero 'COMPROBAR.h'
+130-019b;Valor fuera de rango 1 hasta 100
+130-019b;No se encuentra el fichero 'comprobar_helice_2.h'
+130-019b;No se encuentra el fichero 'BROCA_28.h'
+130-019b;Valor fuera de rango [0...999999999]
+130-019b;No es posible cancelar Blockskip
+130-019b;No se encuentra el fichero 'ROSCASM12.h'
+130-019b;No se encuentra el fichero 'PLATO_125.h'
+130-019b;No se encuentra el fichero 'BROCA_14_MD_L75.h'
+130-019b;No se encuentra el fichero 'PLANEADO.h'
+130-019b;Frase actual (0) no seleccionada
+130-019b;No se encuentra el fichero 'FRESA_4_L20_USADA_LARGA.h'
+130-019b;Valor fuera de rango 0 hasta 1000000
+130-019b;No se encuentra el fichero 'ACABADOS_125_RASCADOR.h'
+130-019b;No se encuentra el fichero 'DESBASTE_LI_A0.3_1_2INSTANKKK.h'
+130-019b;No se encuentra el fichero 'TALADROS_M10.h'
+130-019b;No se encuentra el fichero '90J6_FINAL.h'
+130-019b;Frase actual (49814) no seleccionada
+130-019b;No se encuentra el fichero 'PLANEADO_2MM_PASADA.h'
+130-019b;No se encuentra el fichero '4.2.h'
+130-019b;No se encuentra el fichero 'PLATO_50_L130.h'
+130-019b;No se encuentra el fichero 'TALADROS12CON5.h'
+130-019b;Sólo admisibles val. integrales
+130-019b;No se encuentra el fichero 'M8_YMENOS_GUTI.h'
+130-019b;Cargando datos Symbol y Wachtlist ...
+130-019b;Búsqueda frase interrum. en frase 30012. Utilizar función búsqueda.
+130-019b;No se encuentra el fichero 'BROCA_16.1_PL.h'
+130-019b;No se encuentra el fichero 'PLATO80.h'
+130-019b;Tipo de fichero de 'PCFOX:\\OT17606_TAPA_DD50_orientaDO.h' incorrecto
+130-019b;Frase actual (1093) no seleccionada
+130-019b;Tipo de fichero de 'PCFOX:\\L2.h' incorrecto
+130-019b;No se encuentra el fichero 'plato_bola_20.h'
+130-019b;No se encuentra el fichero 'FRESA_M6_L15.h'
+130-019b;Valor fuera de rango [-99999.9999...+99999.9999]
+130-019b;No se encuentra el fichero 'M10.h'
+130-019b;Búsqueda frase interrum. en frase 39536. Utilizar función búsqueda.
+130-019b;Alcanzado borde de la pantalla
+130-019b;No se encuentra el fichero 'FRESA_M3_L7.5.h'
+130-019b;No se encuentra el fichero '125.h'
+130-019b;No se encuentra el fichero 'FRESA12222.h'
+130-019b;¡Borrar ciclo completamente:DEL!
+130-019b;No se encuentra el fichero 'BROCA_13.5_L5022222.h'
+130-019b;No se encuentra el fichero 'RESTO_PLATO_80_L160.h'
+130-019b;Búsqueda frase interrum. en frase 14222. Utilizar función búsqueda.
+130-019b;No se encuentra el fichero 'FRESA_M6_L15 RESTO.h'
+130-019b;No se encuentra el fichero 'desbaste_nervado1_0.3_inst_5_6_7_8.h'
+130-019b;No se encuentra el fichero 'CAJERAS1.h'
+130-019b;No se encuentra el fichero 'desbaste_p20_a_menos_1.h'
+130-019b;No se encuentra el fichero 'PLATO16.h'
+130-019b;No se encuentra el fichero 'AJUSTE.h'
+130-019b;Valor fuera de rango [0...300000]
+130-019b;No se encuentra el fichero 'ACABADO_PEQUECHAF.h'
+130-019b;No se encuentra el fichero 'M20_AMARRE_1.h'
+130-019b;No se encuentra el fichero 'TURBO_32_L70.h'
+130-019b;Frase actual (231) no seleccionada
+130-019b;Valor fuera de rango [0...32767]
+130-019b;No se encuentra el fichero 'BROCA_13.5_L50.h'
+130-019b;No se encuentra el fichero 'MACHOM24_X+.h'
+130-019b;El acceso a 'PCFOX:\\TURBO_32_L70.h' está bloqeuado
+130-019b;No se encuentra el fichero 'TORBE_PEQUE_RANURARA3_L60.h'
+130-019b;No se encuentra el fichero 'FRESA_M8_L20.h'
+130-019b;Búsqueda frase interrum. en frase 45967. Utilizar función búsqueda.
+130-019b;No se encuentra el fichero 'punteado.h'
+130-019b;El acceso a 'PCFOX:\\BROCA_5.h' está bloqeuado
+130-019b;No se encuentra el fichero 'MANDRINO_A_D35H7_L80.h'
+130-019b;No se encuentra el fichero 'PLATO_BOLA_16_L80_TERMICO_16_L160.h'
+130-019b;Acceso denegado
+130-019b;No se encuentra el fichero '25.h'
+130-019b;No se encuentra el fichero 'DESBASTE_CARA_6.h'
+130-019b;Frase actual (225) no seleccionada
+130-019b;Nombre label ya asign. en línea 10
+130-019b;No se encuentra el fichero 'PLATO80_L230.h'
+130-019b;No se encuentra el fichero 'BORRAR.h'
+130-019b;No se encuentra el fichero 'RASCADOR.h'
+130-019b;Frase actual (32261) no seleccionada
+130-019b;Tipo de fichero de 'PCFOX:\\M22_TALADROS_YMAS.h' incorrecto
+130-019b;No se encuentra el fichero 'COPIADO_RAIL.h'
+130-019b;No se encuentra el fichero 'FRESA10_NUEVA.h'
+130-019b;No se encuentra el fichero 'M114_AMARRE_1.h'
+130-019b;No se encuentra el fichero '17.5.h'
+130-019b;No se encuentra el fichero 'TURBO_66.h'
+130-019b;Valor fuera de rango -99999.9999 hasta +99999.9999
+130-019b;No se encuentra el fichero 'PUNTEADO_TIPO_3.h'
+130-019b;Frase actual (65) no seleccionada
+130-019b;Signo de introduc. no admisble
+130-019b;Memoria intermedia vacía
+130-019b;No se encuentra el fichero 'ACABADOS_PLATO80.h'
+130-019b;Frase actual (806) no seleccionada
+130-019b;Frase actual (78343) no seleccionada
+130-019b;No se encuentra el fichero 'T25_5.h'
+130-019b;No se encuentra el fichero 'D90.12.h'
+130-019b;No se encuentra el fichero 'COMPROBACION.h'
+130-019b;No se encuentra el fichero 'DESBASTE_4_T32_L1_A2_RESTOS.h'
+130-019b;No se encuentra el fichero 'FRESA_10_L40.h'
+130-019b;No se encuentra el fichero 'M6.h'
+130-019b;Nombre fichero no admisible
+130-019b;No se encuentra el fichero 'lateral_1.h'
+130-019b;No se encuentra el fichero 'PLATO_200.h'
+130-019b;No se encuentra el fichero 'CAJERA_PLATO32.h'
+130-019b;No se encuentra el fichero 'PLATO_T_D40_A17_L50.h'
+130-019b;Frase actual (37) no seleccionada
+130-019b;Frase actual (162) no seleccionada
+130-019b;No se encuentra el fichero 'ACABADO_CHAFLANES.h'
+130-019b;Búsqueda frase interrum. en frase 20014. Utilizar función búsqueda.
+130-019b;No se encuentra el fichero 'BROCA5.h'
+130-019b;No se encuentra el fichero 'BROCA5NORMAL.h'
+130-019b;No se encuentra el fichero 'MACHO_12.h'
+130-019b;No se encuentra el fichero 'BROCA_6.8_MD_L50.h'
+130-019b;No se encuentra el fichero 'A45.h'
+130-019b;No se encuentra el fichero 'MACHO_G1_4.h'
+130-019b;Valor fuera de rango [0...9999]
+130-019b;No se admiten minúsculas
+130-019b;Frase actual (3091) no seleccionada
+130-019b;No se encuentra el fichero 'FRESA10.h'
+130-019b;No se encuentra el fichero 'M45_LADO1.h'
+130-019b;No se encuentra el fichero 'farid.h'
+130-019b;No se encuentra el fichero 'ACABADI_6H7_3.97.h'
+130-019b;No se encuentra el fichero 'BROCA_42_PL_L170.h'
+130-019b;No se encuentra el fichero 'FRESA_M6.h'
+130-019b;Frase actual (9729) no seleccionada
+130-019b;Frase actual (125) no seleccionada
+130-019b;Signo algebraico no permitido
+130-019b;Frase actual (368) no seleccionada
+130-019b;Frase actual (538) no seleccionada
+130-019b;No se encuentra el fichero 'TURBO_50.h'
+130-019b;Búsqueda frase interrum. en frase 20024. Utilizar función búsqueda.
+130-019b;No se encuentra el fichero 'PLATO_80_L160.h'
+130-019b;Frase actual (698) no seleccionada
+130-019b;No se encuentra el fichero 'COPIADO_NOCHE.h'
+130-019b;Fichero sin indicación de tipo fichero
+130-019b;Tipo de fichero de 'PCFOX:\\TALADROS_L2.h.h' incorrecto
+130-019b;Entrada no válida
+130-019b;Frase actual (1645) no seleccionada
+130-019b;Frase actual (4529) no seleccionada
+130-019b;Valor fuera de rango [0...100000000]
+130-019b;Modificar/descartar: END/DEL
+130-019b;Búsqueda frase interrum. en frase 20002. Utilizar función búsqueda.
+130-019b;No se encuentra el fichero 'PUNTEADORA_D10_L50.h'
+130-019b;Frase actual (88092) no seleccionada
+130-019b;No se encuentra el fichero 'M16.h'
+130-019b;No se encuentra el fichero 'BROCA_11_L40.h'
+130-019b;Se han guardado los ficheros de servicio
+130-019b;Frase actual (227) no seleccionada
+130-019b;Frase actual (90) no seleccionada
+130-019b;No se encuentra el fichero 'PUNTEOSD10.h'
+130-019b;No se encuentra el fichero 'turbo_50_l130.h'
+130-019b;No se encuentra el fichero 'ACHAFLANAR_D26.5_L60.h'
+130-019b;No se encuentra el fichero 'PUNTEAR_CANELA_L70.h'
+130-019b;No se encuentra el fichero 'PLATO_50_L220.h'
+130-019b;No se encuentra el fichero 'lateral_guia_1.h'
+130-019b;Frase actual (510) no seleccionada
+130-019b;Frase actual (6539) no seleccionada
+130-019b;No se encuentra el fichero 'PLATO_80.h'
+130-019b;No se encuentra el fichero 'ALTURAS SEMI.h'
+130-019b;No se encuentra el fichero 'GAS1-4.h'
+130-019b;No se encuentra el fichero 'TURBO50.h'
+130-019b;No se encuentra el fichero 'COPIADO_DFN_A-1.6_SUP_H2_ZONA_PLANA_REVES.h'
+130-019b;No se encuentra el fichero 'PLATO50.h'
+130-019b;No se encuentra el fichero 'BROCA_8.5.h'
+130-019b;No se encuentra el fichero 'FRESA16.h'
+130-019b;Valor fuera de rango [1...65534]
+130-019b;No se encuentra el fichero 'desbaste_1.h'
+130-019b;No se encuentra el fichero 'panza_en_medio.h'
+130-019b;Frase actual (4652) no seleccionada
+130-019b;No se encuentra el fichero 'TURBO_66_L230.h'
+130-019b;No se encuentra el fichero 'CAJERASPASANTES2.h'
+130-019b;Frase actual (163284) no seleccionada
+130-019b;Frase actual (2414) no seleccionada
+130-019b;No se encuentra el fichero 'CANELA.h'
+130-019b;Frase actual (104) no seleccionada
+130-019b;No se encuentra el fichero 'PLANEADO_L2.h'
+130-019b;Frase actual (41000) no seleccionada
+130-019b;Búsqueda frase interrum. en frase 25210. Utilizar función búsqueda.
+130-019b;No puede copiarse a si mismo
+130-019b;Tipo de fichero de 'PCFOX:\\TODO_L2.h' incorrecto
+130-019b;No se encuentra el fichero 'TODO_L2.h'
+130-019b;No se encuentra el fichero 'xmenos222222.h'
+130-019b;Valor fuera de rango [0...3600]
+130-019b;No se encuentra el fichero 'ACABADOS.h'
+130-019b;Valor fuera de rango 0 hasta 100000000
+130-019b;No se encuentra el fichero 'BROCA17.5.h'
+130-019b;Valor fuera de rango [-9999.999...+9999.999]
+130-019b;No se encuentra el fichero 'RAIL_A120_S700CHAFLAN.h'
+130-019b;No se encuentra el fichero 'M36_AMARRE_1.h'
+130-019b;No se encuentra el fichero 'PLATO_125_33333333.h'
+130-019b;No se encuentra el fichero 'DESBASTES_RANURAS_LATERALES.h'
+130-019b;Frase actual (124592) no seleccionada
+130-019b;No se encuentra el fichero 'TORBE_P2_3.75.h'
+130-019b;No se encuentra el fichero 'VENTANA_1.h'
+130-019b;No se encuentra el fichero 'TALADROS4.2.h'
+130-019b;No se encuentra el fichero '35H7_MANDRINO.h'
+130-019b;No se encuentra el fichero 'M42_AMARRE_1.h'
+130-019b;Frase actual (277) no seleccionada
+130-019b;Frase actual (12) no seleccionada
+130-019b;No se ha podido ejecutar la función de fichero!
+130-019b;Espere ...
+130-019b;Frase actual (11) no seleccionada
+130-019b;Sobrepasado nº caracteres máx.
+130-019b;No se encuentra el fichero 'TALADROSD8.5.h'
+130-019b;No se encuentra el fichero '(2MIN)COPIADO_DFN_A-1.6_FONDO_H1.h'
+130-019b;No se encuentra el fichero 'PLATO_80_L230.h'
+130-019b;No se encuentra el fichero 'AVELLANADO4.h'
+130-019b;Frase actual (61) no seleccionada
+130-019b;No se encuentra el fichero 'FRESA8_BM.h'
+130-019b;Búsqueda frase interrum. en frase 60406. Utilizar función búsqueda.
+130-019b;Frase actual (985) no seleccionada
+130-019b;¡Frase en ciclo no permitida!
+130-019b;No se encuentra el fichero 'M22_COMPLETA.h'
+130-019b;Frase actual (25) no seleccionada
+130-019b;No se encuentra el fichero 'BROCA5MD.h'
+130-019b;Error de introducción
+130-019b;No se encuentra el fichero 'MACHOM10_L35.h'
+130-019b;No se admiten cifras
+130-019b;No se encuentra el fichero 'TALAdro30.h'
+130-019b;No se encuentra el fichero 'DES1.4_SUP_P32_PMFA.h'
+130-019b;Frase actual (175) no seleccionada
+130-019b;No se encuentra el fichero 'RESTO_PLACA.h'
+130-019b;No se encuentra el fichero '3_DESBASTE_EN_INCLINADO.h'
+130-019b;Frase actual (42) no seleccionada
+130-019b;Búsqueda frase interrum. en frase 20008. Utilizar función búsqueda.
+130-019b;Valor fuera de rango 0 hasta 999.9
+130-019b;Valor fuera de rango 3 hasta 8
+130-019b;No se encuentra el fichero 'BROCA_5_MD_L30_TERMICO.h'
+130-019b;No se encuentra el fichero 'PLANEADO_SUP1.h'
+130-019b;No se encuentra el fichero 'ACABADO90.h'
+130-019b;No se encuentra el fichero 'TALADROD8_SUP_L1.h'
+130-019b;No se encuentra el fichero 'MACHO_M16_CIEGO_L150.h'
+130-019b;Búsqueda frase interrum. en frase 20013. Utilizar función búsqueda.
+130-019b;Valor introduc. incorrecto
+130-019b;Frase actual (45) no seleccionada
+130-019b;No se encuentra el fichero 'CORTE2-CPONER BRIDAS.h'
+130-019b;Se memorizará el fichero
+130-019b;No se encuentra el fichero 'ACABADOS_PLATO_80_L280.h'
+130-019b;Palabra clave contexto desconoc.
+130-019b;No se encuentra el fichero 'PLANEAR.h'
+130-019b;No se encuentra el fichero 'COPIADO_DFN_A-1.6_SUP_H2_ZONA_RADIOS.h'
+130-019b;No se encuentra el fichero 'FRESA_16_L45-ACABADO.h'
+130-019b;No se encuentra el fichero 'ROSCA_M8.h'
+130-019b;No se encuentra el fichero 'PLATO50_L230.h'
+130-019b;No se encuentra el fichero 'DES2.h'
+130-019b;Tipo de fichero de 'PCFOX:\\UTIL_ARALUCE_ASYSOL.h' incorrecto
+130-019b;No se encuentra el fichero 'G3-8.h'
+130-019b;No se encuentra el fichero 'BROCA_12_MD_L70.h'
+130-019b;No se encuentra el fichero 'FRESA_4.h'
+130-019b;No se encuentra el fichero '7_SEMI_DESB_ROJO_L1_A0.5_YMAS.h'
+130-019b;Búsqueda frase interrum. en frase 20003. Utilizar función búsqueda.
+130-019b;Frase actual (8510) no seleccionada
+130-019b;Nombre label ya asign. en línea 1
+130-019b;No se encuentra el fichero 'AGUJEROS_L2_GRANDE.h'
+130-019b;Frase actual (128) no seleccionada
+130-019b;No se encuentra el fichero 'ROSCAS_M10_laterales_v3.h'
+130-019b;Tecla sin función
+130-019b;No se encuentra el fichero 'PLATO_50_L230.h'
+130-019b;Frase actual (22) no seleccionada
+130-019b;¡Error en fichero o directorio!
+130-019b;No se encuentra el fichero 'TURBO_50_L230.h'
+130-019b;Frase actual (696) no seleccionada
+130-019b;Frase actual (2592) no seleccionada
+130-019b;Frase actual no preseleccionada
+130-019b;Frase actual (20) no seleccionada
+130-019b;No se encuentra el fichero 'PLATO50_L130.h'
+130-019b;No se encuentra el fichero 'PLATO_125_WNT.h'
+130-019b;Función con marcación no permitida
+130-019b;Valor fuera de rango [0...10]
+130-019b;No se encuentra el fichero 'RANURAR_T_18X8.h'
+130-019b;No se encuentra el fichero 'PLATO_80_L230_2222222.h'
+130-019b;No modif. durante ejecuc. prog.
+130-019b;No se encuentra el fichero 'DESBASTES.h'
+130-019b;Introd. incremental no permitida
+130-019b;No se encuentra el fichero 'TURBO_25_L100.h'
+130-019b;No se encuentra el fichero 'ACABADO_50_H7.h'
+130-019b;El acceso a 'PCFOX:\\CAGERAS.h' está bloqeuado
+130-019b;Frase actual (363) no seleccionada
+130-019b;No se encuentra el fichero 'LAMADOX-.h'
+130-019b;No se encuentra el fichero 'BROCA_19_PL_L100_ALARGADOR.h'
+130-019b;Programa PLC será traducido
+130-019b;Frase actual (770) no seleccionada
+130-019b;No se encuentra el fichero 'ACABADO2.h'
+130-019b;No se encuentra el fichero 'PLATO_80_L280.h'
+130-019b;Tiempo de arranque no admisible
+130-019b;No se encuentra el fichero 'm12_orientados.h'
+130-019b;Frase actual (127372) no seleccionada
+130-019b;No se encuentra el fichero 'MATXO_M12.h'
+130-019b;No se encuentra el fichero 'RESTO.h'
+130-019b;No se encuentra el fichero 'PTURBO_50_L230.h'
+130-019b;No se encuentra el fichero 'TURBO_16_L105.h'
+130-019b;Valor fuera de rango 0 hasta 9999
+130-019b;Valor fuera de rango [0...1999]
+130-019b;Búsqueda frase interrum. en frase 24007. Utilizar función búsqueda.
+130-019b;No se encuentra el fichero 'PLANEADO_DESBASTE.h'
+130-019b;Búsqueda frase interrum. en frase 76478. Utilizar función búsqueda.
+130-019b;¡Fichero protegido!
+130-019b;No se encuentra el fichero 'PLATO16_L80_0.3.h'
+130-019b;No se encuentra el fichero 'TXAFLANOOOOOOOO.h'
+130-019b;No se encuentra el fichero 'ROSCAS_M6.h'
+130-019b;No se encuentra el fichero 'BROCA_3.2_PROGR4.h'
+130-019b;No se encuentra el fichero 'PLATO_125_RASCADOR.h'
+130-019b;Frase actual (798) no seleccionada
+130-019b;No se encuentra el fichero 'BROCA_16.1_MPL_L150.h'
+130-019b;No se admiten letras
+130-019b;Valor fuera de rango [-360...+360]
+130-019b;No se encuentra el fichero 'M24_XMAS.h'
+130-019b;El programa fue modificado
+130-019b;Valor fuera de rango [1...2]
+130-019b;No se encuentra el fichero 'FRESA_20_DESBASTE_L50.h'
+130-019b;Frase actual (21) no seleccionada
+130-019b;No se encuentra el fichero 'FRESA_12_L35_USADA.h'
+130-019b;No se encuentra el fichero 'CHAFLANES_INTERIOR_DESAGUE.h'
+130-019b;Nombre de fichero no disponible
+130-019b;Frase actual (10998) no seleccionada
+130-019b;No se encuentra el fichero 'ACABADOS_124_RASCADOR.h'
+130-019b;Frase actual (-1) no seleccionada
+130-019b;No se encuentra el fichero 'PLATO_200_WNT_17P.h'
+130-019b;Frase actual (7230) no seleccionada
+130-019b;Búsqueda frase interrum. en frase 22437. Utilizar función búsqueda.
+130-019b;Frase actual (486) no seleccionada
+130-019b;No se encuentra el fichero 'TURBO_80_L280.h'
+130-019c;Se han guardado los ficheros de servicio
+130-01fd;Errror del sistema
+130-03ef;Acceso al fichero imposible
+130-07d6;La unidad de disco ’USB0:’ no reacciona
+130-07d6;La unidad de disco ’RS232:’ no reacciona
+130-07d7;Ha fallado la selección o el incio del programa
+140-000d;No se encuentra texto para el nombre de texto 'DP_Engrases_para_Limpieza_Cabezal'
+140-0017;Parámetros de máquina modificados.\nFinalizar el control y reiniciar.
+160-000b;CYCL DEF no definido
+160-000d;Fichero destino PCFOX:\\PLATO_200_WNT_17P.h no puede ser abierto
+160-0026;Falta sentido de giro
+160-002c;Formato frase incorrecto
+160-0049;Punto de contacto inalcanzable
+160-0069;Falta avance
+160-00a2;Formato frase incorrecto
+160-00c3;Función M no permitida
+160-00cb;No puede abrirse el programa seleccionado
+160-00dc;RPM erróneas
+160-00e4;Arranque de un ciclo de palpación con el palpador ya inclinado
+160-00e6; Faltan datos de la herramienta
+160-00f4;El programa ha sido modificado
+160-0160;M2/M30 en subprograma
+1a0-0003;La función no es posible:\nRotation of workplane with TOOL X or U.
+1a0-0013;Radio herramienta excesivo
+1a0-004b;El sentido de giro y el símbolo del ángulo de un círculo \ntienen una definición contradictoria
+1a0-0084;Círculo programado incorrectamente
+1a0-00e9;Continuación programa imposible
+1a0-00f7;Angulo no permitido
+1a0-00fc;Sin solución en campo limitado
+1a1-0010;Final de carrera AX_3 +: start= 1501.339 mm end= 1851.339 mm limit= 1750.000 mm
+1a1-0010;Final de carrera AX_2 +: start= 75.000 mm end= 5195.498 mm limit= 3750.000 mm
+1a1-0010;Final de carrera AX_1 +: start= 1000.000 mm end= 5408.560 mm limit= 5000.000 mm
+1a1-0010;Final de carrera AX_2 +: start= 3740.930 mm end= 4000.000 mm limit= 3750.000 mm
+1a1-0010;Final de carrera AX_1 +: start= 4999.999 mm end= 5018.718 mm limit= 5000.000 mm
+1a1-0010;Final de carrera AX_3 +: start= 1749.999 mm end= 10505.009 mm limit= 1750.000 mm
+1a1-0010;Final de carrera AX_1 +: start= 4999.999 mm end= 5021.773 mm limit= 5000.000 mm
+1a1-0010;Final de carrera AX_1 +: start= 4999.999 mm end= 5013.584 mm limit= 5000.000 mm
+1a1-0010;Final de carrera AX_1 +: start= 4328.168 mm end= 5408.167 mm limit= 5000.000 mm
+1a1-0010;Final de carrera AX_3 +: start= 1749.999 mm end= 1808.744 mm limit= 1750.000 mm
+1a1-0010;Final de carrera AX_1 +: start= 4996.108 mm end= 5004.533 mm limit= 5000.000 mm
+1a1-0010;Final de carrera AX_1 +: start= 4931.597 mm end= 5026.597 mm limit= 5000.000 mm
+1a1-0010;Final de carrera AX_1 +: start= 4999.999 mm end= 5020.888 mm limit= 5000.000 mm
+1a1-0010;Final de carrera AX_3 +: start= 1700.000 mm end= 2281.868 mm limit= 1750.000 mm
+1a1-0010;Final de carrera AX_2 +: start= 3600.000 mm end= 3780.000 mm limit= 3750.000 mm
+1a1-0010;Final de carrera AX_1 +: start= 4999.999 mm end= 5122.413 mm limit= 5000.000 mm
+1a1-0010;Final de carrera AX_1 +: start= 4999.999 mm end= 5002.600 mm limit= 5000.000 mm
+1a1-0010;Final de carrera AX_3 +: start= 1201.418 mm end= 1990.918 mm limit= 1750.000 mm
+1a1-0010;Final de carrera AX_3 +: start= 1750.000 mm end= 2011.730 mm limit= 1750.000 mm
+1a1-0010;Final de carrera AX_3 +: start= 1456.744 mm end= 1808.744 mm limit= 1750.000 mm
+1a1-0010;Final de carrera AX_2 +: start= 3740.930 mm end= 3850.000 mm limit= 3750.000 mm
+1a1-0010;Final de carrera AX_1 +: start= 4494.677 mm end= 5126.323 mm limit= 5000.000 mm
+1a1-0010;Final de carrera AX_3 +: start= 1749.999 mm end= 2634.391 mm limit= 1750.000 mm
+1a1-0010;Final de carrera AX_1 +: start= 3991.296 mm end= 5046.295 mm limit= 5000.000 mm
+1a1-0010;Final de carrera AX_3 +: start= 1183.918 mm end= 1990.918 mm limit= 1750.000 mm
+1a1-0010;Final de carrera AX_1 +: start= 4999.803 mm end= 5000.098 mm limit= 5000.000 mm
+1a1-0010;Final de carrera AX_3 +: start= 1749.999 mm end= 1825.758 mm limit= 1750.000 mm
+1a1-0010;Final de carrera AX_3 +: start= 219.930 mm end= 1899.930 mm limit= 1750.000 mm
+1a1-0010;Final de carrera AX_3 +: start= 1749.999 mm end= 1877.256 mm limit= 1750.000 mm
+1a1-0010;Final de carrera AX_3 +: start= 1749.999 mm end= 2634.361 mm limit= 1750.000 mm
+1a1-0010;Final de carrera AX_3 +: start= 1749.999 mm end= 1774.427 mm limit= 1750.000 mm
+1a1-0010;Final de carrera AX_3 +: start= 1749.999 mm end= 1774.428 mm limit= 1750.000 mm
+1a1-0010;Final de carrera AX_1 +: start= 4872.584 mm end= 5013.584 mm limit= 5000.000 mm
+1a1-0010;Final de carrera AX_1 +: start= 4999.999 mm end= 5053.341 mm limit= 5000.000 mm
+1a1-0010;Final de carrera AX_3 +: start= 1749.999 mm end= 10191.440 mm limit= 1750.000 mm
+1a1-0010;Final de carrera AX_3 +: start= 1749.999 mm end= 2671.199 mm limit= 1750.000 mm
+1a1-0010;Final de carrera AX_3 +: start= 1749.999 mm end= 2074.382 mm limit= 1750.000 mm
+1a1-0010;Final de carrera AX_1 +: start= 4999.999 mm end= 5027.061 mm limit= 5000.000 mm
+1a1-0010;Final de carrera AX_2 +: start= 3740.930 mm end= 3800.000 mm limit= 3750.000 mm
+1a1-0010;Final de carrera AX_1 +: start= 5000.000 mm end= 5012.455 mm limit= 5000.000 mm
+1a1-0010;Final de carrera AX_1 +: start= 4999.999 mm end= 5010.906 mm limit= 5000.000 mm
+1a1-0010;Final de carrera AX_1 +: start= 5000.000 mm end= 5011.380 mm limit= 5000.000 mm
+1a1-0010;Final de carrera AX_3 +: start= 1749.999 mm end= 1875.163 mm limit= 1750.000 mm
+1a1-0010;Final de carrera AX_1 +: start= 4999.999 mm end= 5035.683 mm limit= 5000.000 mm
+1a1-0010;Final de carrera AX_3 +: start= 1749.999 mm end= 1981.597 mm limit= 1750.000 mm
+1a1-0010;Final de carrera AX_1 +: start= 4999.999 mm end= 5117.736 mm limit= 5000.000 mm
+1a1-0010;Final de carrera AX_3 +: start= 1750.000 mm end= 1799.913 mm limit= 1750.000 mm
+1a1-0010;Final de carrera AX_3 +: start= 1750.000 mm end= 1959.635 mm limit= 1750.000 mm
+1a1-0010;Final de carrera AX_1 +: start= 5000.000 mm end= 5500.000 mm limit= 5000.000 mm
+1a1-0010;Final de carrera AX_1 +: start= 395.167 mm end= 5048.020 mm limit= 5000.000 mm
+1a1-0010;Final de carrera AX_1 +: start= 4999.999 mm end= 5107.834 mm limit= 5000.000 mm
+1a1-0010;Final de carrera AX_1 +: start= 4999.999 mm end= 5018.434 mm limit= 5000.000 mm
+1a1-0010;Final de carrera AX_1 +: start= 4999.999 mm end= 5005.606 mm limit= 5000.000 mm
+1a1-0010;Final de carrera AX_2 +: start= 2753.295 mm end= 4085.140 mm limit= 3750.000 mm
+1a1-0010;Final de carrera AX_1 +: start= 4921.434 mm end= 5055.434 mm limit= 5000.000 mm
+1a1-0010;Final de carrera AX_1 +: start= 4962.293 mm end= 5009.293 mm limit= 5000.000 mm
+1a1-0010;Final de carrera AX_3 +: start= 1749.999 mm end= 1990.918 mm limit= 1750.000 mm
+1a1-0010;Final de carrera AX_1 +: start= 4999.999 mm end= 5038.722 mm limit= 5000.000 mm
+1a1-0010;Final de carrera AX_3 +: start= 1749.999 mm end= 1981.624 mm limit= 1750.000 mm
+1a1-0010;Final de carrera AX_3 +: start= 1749.000 mm end= 2002.019 mm limit= 1750.000 mm
+1a1-0010;Final de carrera AX_2 +: start= 2776.525 mm end= 4108.370 mm limit= 3750.000 mm
+1a1-0010;Final de carrera AX_1 +: start= 4999.999 mm end= 5065.396 mm limit= 5000.000 mm
+1a1-0010;Final de carrera AX_1 +: start= 4999.999 mm end= 5001.378 mm limit= 5000.000 mm
+1a1-0010;Final de carrera AX_1 +: start= 4999.999 mm end= 5045.069 mm limit= 5000.000 mm
+1a1-0010;Final de carrera AX_3 +: start= 998.614 mm end= 2198.614 mm limit= 1750.000 mm
+1a1-0010;Final de carrera AX_3 +: start= 1749.999 mm end= 10505.034 mm limit= 1750.000 mm
+1a1-0010;Final de carrera AX_3 +: start= 1749.000 mm end= 1750.460 mm limit= 1750.000 mm
+1a1-0010;Final de carrera AX_3 +: start= 1749.999 mm end= 1780.896 mm limit= 1750.000 mm
+1a1-0010;Final de carrera AX_3 +: start= 1749.512 mm end= 1750.122 mm limit= 1750.000 mm
+1a1-0010;Final de carrera AX_1 +: start= 4999.999 mm end= 5011.848 mm limit= 5000.000 mm
+1a1-0010;Final de carrera AX_1 +: start= 4999.999 mm end= 5000.061 mm limit= 5000.000 mm
+1a1-0010;Final de carrera AX_2 +: start= 3740.930 mm end= 3900.000 mm limit= 3750.000 mm
+1a1-0010;Final de carrera AX_3 +: start= 1749.999 mm end= 1937.345 mm limit= 1750.000 mm
+1a1-0010;Final de carrera AX_1 +: start= 4985.612 mm end= 5063.813 mm limit= 5000.000 mm
+1a1-0010;Final de carrera AX_1 +: start= 4846.107 mm end= 5015.097 mm limit= 5000.000 mm
+1a1-0010;Final de carrera AX_3 +: start= 1749.999 mm end= 9905.034 mm limit= 1750.000 mm
+1a1-0010;Final de carrera AX_1 +: start= 4999.999 mm end= 5005.611 mm limit= 5000.000 mm
+1a1-0010;Final de carrera AX_1 +: start= 4999.999 mm end= 5021.549 mm limit= 5000.000 mm
+1a1-0010;Final de carrera AX_1 +: start= 4749.790 mm end= 5021.773 mm limit= 5000.000 mm
+1a1-0010;Final de carrera AX_2 +: start= 3011.269 mm end= 4011.269 mm limit= 3750.000 mm
+1a1-0010;Final de carrera AX_3 +: start= 1749.999 mm end= 2111.367 mm limit= 1750.000 mm
+1a1-0010;Final de carrera AX_1 +: start= 4998.944 mm end= 5007.250 mm limit= 5000.000 mm
+1a1-0010;Final de carrera AX_1 +: start= 4996.378 mm end= 5004.803 mm limit= 5000.000 mm
+1a1-0010;Final de carrera AX_1 +: start= 4999.999 mm end= 5001.848 mm limit= 5000.000 mm
+1a1-0010;Final de carrera AX_1 +: start= 4999.999 mm end= 5009.516 mm limit= 5000.000 mm
+1a1-0010;Final de carrera AX_1 +: start= 4868.500 mm end= 5067.733 mm limit= 5000.000 mm
+1a1-0010;Final de carrera AX_3 +: start= 1608.983 mm end= 1800.000 mm limit= 1750.000 mm
+1a1-0010;Final de carrera AX_1 +: start= 4999.999 mm end= 5169.152 mm limit= 5000.000 mm
+1a1-0010;Final de carrera AX_2 +: start= 700.000 mm end= 3966.583 mm limit= 3750.000 mm
+1a1-0010;Final de carrera AX_1 +: start= 4999.999 mm end= 5085.413 mm limit= 5000.000 mm
+1a1-0010;Final de carrera AX_3 +: start= 1749.383 mm end= 1750.005 mm limit= 1750.000 mm
+1a1-0010;Final de carrera AX_2 +: start= 2764.910 mm end= 4096.755 mm limit= 3750.000 mm
+1a1-0010;Final de carrera AX_2 +: start= 788.888 mm end= 3837.888 mm limit= 3750.000 mm
+1a1-0010;Final de carrera AX_1 +: start= 400.189 mm end= 5015.205 mm limit= 5000.000 mm
+1a1-0010;Final de carrera AX_1 +: start= 4999.999 mm end= 5028.651 mm limit= 5000.000 mm
+1a1-0010;Final de carrera AX_1 +: start= 4940.536 mm end= 5004.533 mm limit= 5000.000 mm
+1a1-0010;Final de carrera AX_1 +: start= 4940.831 mm end= 5004.828 mm limit= 5000.000 mm
+1a1-0010;Final de carrera AX_3 +: start= 1276.582 mm end= 1773.513 mm limit= 1750.000 mm
+1a1-0010;Final de carrera AX_1 +: start= 4999.999 mm end= 5006.378 mm limit= 5000.000 mm
+1a1-0010;Final de carrera AX_3 +: start= 1749.999 mm end= 1767.688 mm limit= 1750.000 mm
+1a1-0010;Final de carrera AX_3 +: start= 1742.810 mm end= 1755.870 mm limit= 1750.000 mm
+1a1-0010;Final de carrera AX_3 +: start= 1500.000 mm end= 1800.000 mm limit= 1750.000 mm
+1a1-0010;Final de carrera AX_1 +: start= 4999.999 mm end= 5009.331 mm limit= 5000.000 mm
+1a1-0010;Final de carrera AX_1 +: start= 4941.855 mm end= 5001.855 mm limit= 5000.000 mm
+1a1-0010;Final de carrera AX_1 +: start= 434.667 mm end= 5048.020 mm limit= 5000.000 mm
+1a1-0011;Final de carrera AX_1 -: start= 0.001 mm end= -1283.636 mm limit= 0.000 mm
+1a1-0011;Final de carrera AX_1 -: start= 0.001 mm end= -123.890 mm limit= 0.000 mm
+1a1-0011;Final de carrera AX_3 -: start= 1739.174 mm end= -1.000 mm limit= 0.000 mm
+1a1-0011;Final de carrera AX_1 -: start= 0.001 mm end= -35.826 mm limit= 0.000 mm
+1a1-0011;Final de carrera AX_2 -: start= 700.000 mm end= -1060.325 mm limit= 0.000 mm
+1a1-0011;Final de carrera AX_3 -: start= 1749.000 mm end= -4.044 mm limit= 0.000 mm
+1a1-0011;Final de carrera AX_1 -: start= 1627.713 mm end= -3078.053 mm limit= 0.000 mm
+1a1-0011;Final de carrera AX_1 -: start= 1000.000 mm end= -1882.804 mm limit= 0.000 mm
+1a1-0011;Final de carrera AX_3 -: start= 1749.999 mm end= -1883.017 mm limit= 0.000 mm
+1a1-0011;Final de carrera AX_1 -: start= 1000.000 mm end= -486.793 mm limit= 0.000 mm
+1a1-0011;Final de carrera AX_1 -: start= 0.001 mm end= -6.871 mm limit= 0.000 mm
+1a1-0011;Final de carrera AX_1 -: start= 0.001 mm end= -1592.636 mm limit= 0.000 mm
+1a1-0011;Final de carrera AX_1 -: start= 0.001 mm end= -3.356 mm limit= 0.000 mm
+1a1-0011;Final de carrera AX_2 -: start= 0.001 mm end= -301.650 mm limit= 0.000 mm
+1a1-0011;Final de carrera AX_1 -: start= -0.000 mm end= -13.728 mm limit= 0.000 mm
+1a1-0011;Final de carrera AX_1 -: start= 5.000 mm end= -719.452 mm limit= 0.000 mm
+1a1-0011;Final de carrera AX_2 -: start= 0.001 mm end= -31.620 mm limit= 0.000 mm
+1a1-0011;Final de carrera AX_2 -: start= 700.000 mm end= -113.523 mm limit= 0.000 mm
+1a1-0011;Final de carrera AX_1 -: start= 0.169 mm end= -0.628 mm limit= 0.000 mm
+1a1-0011;Final de carrera AX_1 -: start= 1000.000 mm end= -32.622 mm limit= 0.000 mm
+1a1-0011;Final de carrera AX_1 -: start= 0.000 mm end= -31.873 mm limit= 0.000 mm
+1a1-0011;Final de carrera AX_1 -: start= 0.001 mm end= -135.732 mm limit= 0.000 mm
+1a1-0011;Final de carrera AX_3 -: start= 24.664 mm end= -23.277 mm limit= 0.000 mm
+1a1-0011;Final de carrera AX_1 -: start= 1000.000 mm end= -2.586 mm limit= 0.000 mm
+1a1-0011;Final de carrera AX_3 -: start= 1749.000 mm end= -233.278 mm limit= 0.000 mm
+1a1-0011;Final de carrera AX_1 -: start= 0.000 mm end= -29.329 mm limit= 0.000 mm
+1a1-0011;Final de carrera AX_1 -: start= 0.001 mm end= -30.145 mm limit= 0.000 mm
+1a1-0011;Final de carrera AX_1 -: start= 183.209 mm end= -106.789 mm limit= 0.000 mm
+1a1-0011;Final de carrera AX_1 -: start= 999.161 mm end= -68.245 mm limit= 0.000 mm
+1a1-0011;Final de carrera AX_2 -: start= 700.000 mm end= -238.406 mm limit= 0.000 mm
+1a1-0011;Final de carrera AX_1 -: start= 0.500 mm end= -0.030 mm limit= 0.000 mm
+1a1-0011;Final de carrera AX_1 -: start= 0.000 mm end= -738.221 mm limit= 0.000 mm
+1a1-0011;Final de carrera AX_3 -: start= 1749.999 mm end= -638.238 mm limit= 0.000 mm
+1a1-0011;Final de carrera AX_1 -: start= 0.188 mm end= -0.108 mm limit= 0.000 mm
+1a1-0011;Final de carrera AX_3 -: start= 1749.999 mm end= -1034.192 mm limit= 0.000 mm
+1a1-0011;Final de carrera AX_3 -: start= 114.904 mm end= -5.096 mm limit= 0.000 mm
+1a1-0011;Final de carrera AX_1 -: start= 0.000 mm end= -16.894 mm limit= 0.000 mm
+1a1-0011;Final de carrera AX_1 -: start= 1000.000 mm end= -18.774 mm limit= 0.000 mm
+1a1-0011;Final de carrera AX_1 -: start= 0.001 mm end= -106.789 mm limit= 0.000 mm
+1a1-0011;Final de carrera AX_1 -: start= 0.001 mm end= -17.478 mm limit= 0.000 mm
+1a1-0011;Final de carrera AX_2 -: start= 3728.110 mm end= -100.000 mm limit= 0.000 mm
+1a1-0011;Final de carrera AX_2 -: start= 938.835 mm end= -301.665 mm limit= 0.000 mm
+1a1-0011;Final de carrera AX_2 -: start= 132.905 mm end= -1399.214 mm limit= 0.000 mm
+1a1-0011;Final de carrera AX_1 -: start= 0.001 mm end= -36.355 mm limit= 0.000 mm
+1a1-0011;Final de carrera AX_1 -: start= 1000.489 mm end= -1702.021 mm limit= 0.000 mm
+1a1-0011;Final de carrera AX_1 -: start= 2500.000 mm end= -18.156 mm limit= 0.000 mm
+1a1-0011;Final de carrera AX_1 -: start= 1000.000 mm end= -1882.821 mm limit= 0.000 mm
+1a1-0011;Final de carrera AX_1 -: start= 995.846 mm end= -6.041 mm limit= 0.000 mm
+1a1-0011;Final de carrera AX_2 -: start= 150.000 mm end= -50.000 mm limit= 0.000 mm
+1a1-0011;Final de carrera AX_1 -: start= 1000.000 mm end= -1702.686 mm limit= 0.000 mm
+1a1-0011;Final de carrera AX_3 -: start= 1749.000 mm end= -926.186 mm limit= 0.000 mm
+1a1-0011;Final de carrera AX_1 -: start= 0.000 mm end= -143.423 mm limit= 0.000 mm
+1a1-0011;Final de carrera AX_1 -: start= 1000.000 mm end= -486.781 mm limit= 0.000 mm
+1a1-0011;Final de carrera AX_1 -: start= 0.000 mm end= -5.233 mm limit= 0.000 mm
+1a1-0011;Final de carrera AX_1 -: start= 1000.000 mm end= -3378.480 mm limit= 0.000 mm
+1a1-0011;Final de carrera AX_1 -: start= 4733.461 mm end= -3378.480 mm limit= 0.000 mm
+1a1-0011;Final de carrera AX_1 -: start= 0.001 mm end= -62.063 mm limit= 0.000 mm
+1a1-0011;Final de carrera AX_1 -: start= 1000.000 mm end= -2755.649 mm limit= 0.000 mm
+1a1-0011;Final de carrera AX_1 -: start= 220.115 mm end= -6.871 mm limit= 0.000 mm
+1a1-0011;Final de carrera AX_1 -: start= 0.000 mm end= -27.642 mm limit= 0.000 mm
+1a1-0011;Final de carrera AX_1 -: start= 99.161 mm end= -38.034 mm limit= 0.000 mm
+1a1-0011;Final de carrera AX_3 -: start= 836.918 mm end= -2384.544 mm limit= 0.000 mm
+1a1-0011;Final de carrera AX_3 -: start= 1411.314 mm end= -300.000 mm limit= 0.000 mm
+1a1-0011;Final de carrera AX_3 -: start= 25.923 mm end= -22.077 mm limit= 0.000 mm
+1a1-0011;Final de carrera AX_2 -: start= 0.001 mm end= -301.665 mm limit= 0.000 mm
+1a1-0011;Final de carrera AX_3 -: start= 1749.999 mm end= -2001.522 mm limit= 0.000 mm
+1a1-0011;Final de carrera AX_1 -: start= 997.871 mm end= -1753.049 mm limit= 0.000 mm
+1a1-0011;Final de carrera AX_1 -: start= 0.001 mm end= -2.545 mm limit= 0.000 mm
+1a1-0011;Final de carrera AX_1 -: start= -0.000 mm end= -200.000 mm limit= 0.000 mm
+1a1-0011;Final de carrera AX_1 -: start= 80.131 mm end= -16.869 mm limit= 0.000 mm
+1a1-0011;Final de carrera AX_1 -: start= 1000.000 mm end= -1599.768 mm limit= 0.000 mm
+1a1-0011;Final de carrera AX_1 -: start= 0.000 mm end= -33.214 mm limit= 0.000 mm
+1a1-0011;Final de carrera AX_2 -: start= 0.000 mm end= -2.664 mm limit= 0.000 mm
+1a1-0011;Final de carrera AX_1 -: start= 0.001 mm end= -64.904 mm limit= 0.000 mm
+1a1-0011;Final de carrera AX_1 -: start= 0.000 mm end= -38.034 mm limit= 0.000 mm
+1a1-0011;Final de carrera AX_1 -: start= -0.000 mm end= -11.701 mm limit= 0.000 mm
+1a1-0011;Final de carrera AX_3 -: start= 1749.000 mm end= -23.429 mm limit= 0.000 mm
+1a1-0011;Final de carrera AX_2 -: start= 0.001 mm end= -0.002 mm limit= 0.000 mm
+1a1-0011;Final de carrera AX_2 -: start= 1000.000 mm end= -2424.766 mm limit= 0.000 mm
+1a1-0011;Final de carrera AX_2 -: start= 700.000 mm end= -79.149 mm limit= 0.000 mm
+1a1-0011;Final de carrera AX_1 -: start= -0.000 mm end= -75.704 mm limit= 0.000 mm
+1a1-0011;Final de carrera AX_2 -: start= 3505.212 mm end= -238.406 mm limit= 0.000 mm
+1a1-0011;Final de carrera AX_3 -: start= 1750.000 mm end= -356.492 mm limit= 0.000 mm
+1a1-0011;Final de carrera AX_1 -: start= 174.454 mm end= -52.545 mm limit= 0.000 mm
+1a1-0011;Final de carrera AX_3 -: start= 24.569 mm end= -23.373 mm limit= 0.000 mm
+1a1-0011;Final de carrera AX_1 -: start= 0.001 mm end= -11.702 mm limit= 0.000 mm
+1a1-0011;Final de carrera AX_1 -: start= 290.496 mm end= -17.478 mm limit= 0.000 mm
+1a1-0011;Final de carrera AX_1 -: start= 1000.000 mm end= -1702.238 mm limit= 0.000 mm
+1a1-0011;Final de carrera AX_1 -: start= 0.000 mm end= -11.701 mm limit= 0.000 mm
+1a1-0011;Final de carrera AX_1 -: start= 39.161 mm end= -38.034 mm limit= 0.000 mm
+1a1-0011;Final de carrera AX_2 -: start= 0.000 mm end= -0.531 mm limit= 0.000 mm
+1a1-0011;Final de carrera AX_2 -: start= 403.380 mm end= -31.620 mm limit= 0.000 mm
+1a1-0011;Final de carrera AX_3 -: start= 1018.214 mm end= -1.993 mm limit= 0.000 mm
+1a1-0011;Final de carrera AX_3 -: start= 1700.000 mm end= -699.186 mm limit= 0.000 mm
+1a1-0011;Final de carrera AX_3 -: start= 1749.000 mm end= -23.373 mm limit= 0.000 mm
+1a1-0011;Final de carrera AX_1 -: start= 5.000 mm end= -95.689 mm limit= 0.000 mm
+1a1-0011;Final de carrera AX_1 -: start= 227.912 mm end= -62.063 mm limit= 0.000 mm
+1a1-0011;Final de carrera AX_1 -: start= 0.000 mm end= -1025.799 mm limit= 0.000 mm
+1a1-0011;Final de carrera AX_3 -: start= 24.512 mm end= -23.429 mm limit= 0.000 mm
+1a1-0011;Final de carrera AX_2 -: start= 938.850 mm end= -301.650 mm limit= 0.000 mm
+1a1-0011;Final de carrera AX_1 -: start= 998.935 mm end= -1753.107 mm limit= 0.000 mm
+1a1-0011;Final de carrera AX_1 -: start= 1000.000 mm end= -1282.117 mm limit= 0.000 mm
+1a1-0011;Final de carrera AX_1 -: start= 0.000 mm end= -200.423 mm limit= 0.000 mm
+1a1-0011;Final de carrera AX_1 -: start= 0.000 mm end= -66.392 mm limit= 0.000 mm
+1a1-0011;Final de carrera AX_1 -: start= 0.001 mm end= -41.359 mm limit= 0.000 mm
+1a1-0011;Final de carrera AX_1 -: start= 0.000 mm end= -700.000 mm limit= 0.000 mm
+1a1-0011;Final de carrera AX_1 -: start= 300.000 mm end= -1592.636 mm limit= 0.000 mm
+1a1-0011;Final de carrera AX_1 -: start= 0.000 mm end= -7.885 mm limit= 0.000 mm
+1a1-0011;Final de carrera AX_1 -: start= 0.000 mm end= -1352.480 mm limit= 0.000 mm
+1a1-0011;Final de carrera AX_1 -: start= -0.000 mm end= -13.575 mm limit= 0.000 mm
+1a1-0011;Final de carrera AX_1 -: start= 0.000 mm end= -14.406 mm limit= 0.000 mm
+1a1-0011;Final de carrera AX_1 -: start= 1000.000 mm end= -1882.208 mm limit= 0.000 mm
+1a1-0011;Final de carrera AX_1 -: start= 999.161 mm end= -38.034 mm limit= 0.000 mm
+1a1-0011;Final de carrera AX_1 -: start= 0.000 mm end= -3378.480 mm limit= 0.000 mm
+1a1-0011;Final de carrera AX_1 -: start= 238.900 mm end= -3378.480 mm limit= 0.000 mm
+1a1-0011;Final de carrera AX_3 -: start= 1749.000 mm end= -9.198 mm limit= 0.000 mm
+1a1-0011;Final de carrera AX_1 -: start= 0.000 mm end= -16.869 mm limit= 0.000 mm
+1a1-0011;Final de carrera AX_1 -: start= 0.000 mm end= -47.240 mm limit= 0.000 mm
+1a1-0011;Final de carrera AX_3 -: start= 1018.214 mm end= -1.793 mm limit= 0.000 mm
+1a1-0011;Final de carrera AX_1 -: start= 0.001 mm end= -19.693 mm limit= 0.000 mm
+1a1-0011;Final de carrera AX_2 -: start= 3744.000 mm end= -238.406 mm limit= 0.000 mm
+1a1-0011;Final de carrera AX_1 -: start= 0.469 mm end= -0.061 mm limit= 0.000 mm
+1a1-0011;Final de carrera AX_1 -: start= 0.000 mm end= -14.241 mm limit= 0.000 mm
+200-0020;El programa NC está incompleto
+201-0c8d;Nombre label ya asign. en línea 10
+201-0c8d;Nombre label ya asign. en línea 1
+220-0005;Error de software interno
+220-000a;No se ha ejecutado Start
+220-0019;No se ha podido abrir ClientQueue (Nc/mmi.QMmiGeneral)
+220-001a;No puede escribirse en queue 'Ed/pgm_mgt.PgmMgtQueue'
+220-0039;Datos repuestos debido a la reconfiguración de la cinemática
+230-0005;PARO EMERGENCIA externo
+230-006c;En , el vástago se ha desviado fuera del proceso de palpación
+230-00fc;Final de carrera AX_3 -
+230-00fc;Final de carrera (dynamic Limit)  AX_2 -
+230-00fc;Final de carrera AX_2 -
+230-00fc;Final de carrera (dynamic Limit)  AX_1 -
+230-00fc;Final de carrera AX_1 -
+230-00fc;Final de carrera (dynamic Limit)  AX_3 -
+230-00fd;Final de carrera (dynamic Limit)  AX_2 +
+230-00fd;Final de carrera (dynamic Limit)  AX_1 +
+230-00fd;Final de carrera (dynamic Limit)  AX_3 +
+230-00fd;Final de carrera AX_3 +
+230-00fd;Final de carrera AX_1 +
+230-00fd;Final de carrera AX_2 +
+230-0190;Error de arrastre excesivo AX_1
+230-0190;Error de arrastre excesivo AX_2
+230-0190;Error de arrastre excesivo AX_3
+230-0192;Error de arrastre excesivo AX_3
+230-0192;Error de arrastre excesivo AX_2
+230-019a;Supervisión reposo AX_3
+230-019a;Supervisión reposo AX_1
+230-019d;Palpador no preparado
+230-019e;Cambiar batería palpador
+230-01c4;Falta tensión externa reles
+230-01ca;Debido al error 231-8062, desconecte tras parada NC
+230-02bd;Palpador ya inclinado
+230-0468;Alcanzado el máximo valor de compensación 1 en CfgKinSimpleTrans Corr.Axial_Z
+230-0480;Alcanzado el valor de compensación máximo 1 en eje AX_3
+230-0485;Volante Default-HR, MB0: parámetro erróneo
+230-0486;Volante Default-HR, MB0: tiempo sobrepasado
+230-048d;Se ignora la superposición del volante
+230-048f;Volante Default-HR, MB0: Fallo de comunicación
+230-0490;Movimiento PLC para el eje AX_2 interrumpido
+230-0490;Movimiento PLC para el eje AX_1 interrumpido
+230-0490;Movimiento PLC para el eje AX_3 interrumpido
+231-4400;Error de arrastre excesivo (Eje: AX_3)
+231-4400;Error de arrastre excesivo (Eje: AX_1)
+231-4400;Error de arrastre excesivo (Eje: AX_2)
+231-8061;Falta Fuente de alimentación Ready
+231-8062;Valor lím.: Uz dem. peque.
+231-8064;Caida de tensión (AC)
+231-8bd0;Error arrastre excesivo AX_3
+231-8bd0;Error arrastre excesivo AX_2
+231-c380;Motor AX_2 no regulable
+231-c3b0;Motor AX_3 no rota bajo corriente máxima
+231-c3b0;Motor S1 no rota bajo corriente máxima
+240-07d2;Tipo de fichero de 'PCFOX:\\BROCA_12.5_12.h' incorrecto
+240-07d2;Tipo de fichero de 'USB0:\\BOLA16.h' incorrecto
+240-07d2;Tipo de fichero de 'PCFOX:\\ACABADO2.h' incorrecto
+240-07d2;Tipo de fichero de 'PCFOX:\\M22_TALADROS_YMAS.h' incorrecto
+240-07d2;Tipo de fichero de 'PCFOX:\\ROSCAM12.h' incorrecto
+240-07d2;Tipo de fichero de 'PCFOX:\\TURBO_32_L70.h' incorrecto
+240-07d2;Tipo de fichero de 'PCFOX:\\TURBO_16.h' incorrecto
+240-07d2;Tipo de fichero de 'PCFOX:\\DESBASTE_L1.h' incorrecto
+240-07d2;Tipo de fichero de 'PCFOX:\\TURBO66_L280.h' incorrecto
+240-07d2;Tipo de fichero de 'PCFOX:\\ACAB26_33333.h' incorrecto
+240-07d2;Tipo de fichero de 'PCFOX:\\OT17606_TAPA_DD50_orientaDO.h' incorrecto
+240-07d2;Tipo de fichero de 'PCFOX:\\BORRAR.h' incorrecto
+240-07d2;Tipo de fichero de 'PCFOX:\\COPIADO_DFN_A-1.6_lateral_2_h2_al_reves.h' incorrecto
+240-07d2;Tipo de fichero de 'PCFOX:\\CAJERA_43.h' incorrecto
+240-07d2;Tipo de fichero de 'PCFOX:\\LADO1_TURBO_50.h' incorrecto
+240-07d2;Tipo de fichero de 'PCFOX:\\ROSCAFRESA5.h' incorrecto
+240-07d2;Tipo de fichero de 'PCFOX:\\MARCA_13_COMPLETO.h' incorrecto
+240-07d2;Tipo de fichero de 'PCFOX:\\acabados_L4.h' incorrecto
+240-07d2;Tipo de fichero de 'PCFOX:\\GRABADO_COLUMNA_2.h' incorrecto
+240-07d2;Tipo de fichero de 'PCFOX:\\BROCA_10.2_MD_L70.h' incorrecto
+240-07d2;Tipo de fichero de 'PCFOX:\\TODO_L2.h' incorrecto
+240-07d2;Tipo de fichero de 'PCFOX:\\TALADROS_L2.h.h' incorrecto
+240-07d2;Tipo de fichero de 'PCFOX:\\COPIADO_DFN_A-1.6_SUP_H2_ZONA_PLANA_REVES.h' incorrecto
+240-07d2;Tipo de fichero de 'PCFOX:\\RESTO_CAMPANA.h' incorrecto
+240-07d2;Tipo de fichero de 'PCFOX:\\ACABADO_8.h' incorrecto
+240-07d2;Tipo de fichero de 'PCFOX:\\TURBO_16_L105.h' incorrecto
+240-07d2;Tipo de fichero de 'PCFOX:\\L2.h' incorrecto
+240-07d2;Tipo de fichero de 'PCFOX:\\_CAJERAS_AMARRE_GRANDE_L2.h' incorrecto
+240-07d2;Tipo de fichero de 'PCFOX:\\UTIL_ARALUCE_ASYSOL.h' incorrecto
+240-07d2;Tipo de fichero de 'PCFOX:\\turbo_3.h' incorrecto
+240-07d2;Tipo de fichero de 'PCFOX:\\FRESADO FONDO PEKE.h' incorrecto
+240-07d2;Tipo de fichero de 'PCFOX:\\F.h' incorrecto
+240-07d2;Tipo de fichero de 'PCFOX:\\DESBASTE_PEQUE2.h' incorrecto
+241-07d2;Texto no encontrado
+241-0c09;Borrado herramienta no permitido
+245-0851;No pudo iniciarse el programa de visualización.
+250-1398;Imposible acceder al fichero
+250-139a;Programa NC no seleccionado
+250-13ca;Arrancar programa en modofuncionamiento Ejecución programa
+250-f305;Es posible una búsqueda de frase para la posición de interrupción
+260-0025;Lista Force E/S activa
+270-000f;Bloque de datos ya bloqueado
+270-0021;Valor 'T==81 AND RSV IS NULL' aparece varias veces
+270-0021;Valor 'T==126 AND RSV IS NULL' aparece varias veces
+270-0021;Valor 'T==197 AND RSV IS NULL' aparece varias veces
+270-0021;Valor 'T==98 AND RSV IS NULL' aparece varias veces
+270-0021;Valor 'T==116 AND RSV IS NULL' aparece varias veces
+270-0021;Valor 'T==189 AND RSV IS NULL' aparece varias veces
+270-0021;Valor 'T==127 AND RSV IS NULL' aparece varias veces
+270-0021;Valor 'T==9 AND RSV IS NULL' aparece varias veces
+270-0021;Valor 'T==124 AND RSV IS NULL' aparece varias veces
+270-0021;Valor 'T==71 AND RSV IS NULL' aparece varias veces
+270-0021;Valor 'T==84 AND RSV IS NULL' aparece varias veces
+270-0021;Valor 'T==128 AND RSV IS NULL' aparece varias veces
+270-0021;Valor 'T==154 AND RSV IS NULL' aparece varias veces
+270-0021;Valor 'T==65 AND RSV IS NULL' aparece varias veces
+270-0021;Valor 'T==105 AND RSV IS NULL' aparece varias veces
+270-0021;Valor 'T==80 AND RSV IS NULL' aparece varias veces
+270-0021;Valor 'T==87 AND RSV IS NULL' aparece varias veces
+270-0021;Valor 'T==85 AND RSV IS NULL' aparece varias veces
+270-0021;Valor 'T==63 AND RSV IS NULL' aparece varias veces
+270-0021;Valor 'T==106 AND RSV IS NULL' aparece varias veces
+270-0021;Valor 'T==34 AND RSV IS NULL' aparece varias veces
+270-0021;Valor 'T==67 AND RSV IS NULL' aparece varias veces
+270-0021;Valor 'T==112 AND RSV IS NULL' aparece varias veces
+270-0033;El campo R2= no contiene ningún valor
+270-0033;El campo CUT= no contiene ningún valor
+270-0033;El campo DL= no contiene ningún valor
+270-0034;Valor incorrecto en L=-
+270-0034;Valor incorrecto en NAME='TORBE_GRANDE_D27.7_L120_P2.5-5\
+270-0034;Valor incorrecto en NAME='TORBELLINO_ROSCAR_D17.7_ER32:L160'
+270-0034;Valor incorrecto en R=+
+270-0035;Valor para NAME='TORBE_GRANDE_RANURAR_D27.7_L120_P2.5-5' es demasiado largo
+270-0035;Valor para NAME='TORBE_GRANDE_RANURAR_ANCHO2.5_L100' es demasiado largo
+270-0035;Valor para NAME='TORBELLINO_ROSCAR_D17.7_ER32_L160' es demasiado largo
+270-0035;Valor para NAME='PLATO_BOLA_16_L80_TERMICO_PROLONGAS' es demasiado largo
+270-0035;Valor para NAME='FRESA_12_L40_INOX_WELDON_D12_L160' es demasiado largo
+270-0035;Valor para NAME='PLATO_BOLA_16_L80_TERMICO_16_L160' es demasiado largo
+270-0036;Valor incorrecto en T=0
+270-0036;Valor incorrecto en L=100000
+280-03f9;Ciclo incompleto
+280-0411;Q214: 0 no permitido
+280-042a;Introducir Q247 diferente de 0
+280-046c;No es posible realizar el proceso de palpación
+280-0483;Taladro mas pequeno que bola de palpacion
+280-048a;Sobremedida de corte no definida
+280-0492;No se ha definido correctamente el radio de la herramienta
+280-05e5;Herramienta no definida
+280-05ed;Herr. bloqueada
+280-0621;Herramienta no definida completa
+2a8-0003;Colocar volante en el cargador
+320-000d;Se ha detenido el programa PLC
+320-004a;Caida de tensión (AC)
+320-0064;Se ha interrumpido Strobe T
+320-0064;Se ha interrumpido Strobe M10
+320-0064;Se ha interrumpido Strobe M4
+320-0064;Se ha interrumpido Strobe M5
+320-0064;Se ha interrumpido Strobe M592
+320-0064;Se ha interrumpido Strobe M293
+320-0064;Se ha interrumpido Strobe M3
+320-0064;Se ha interrumpido Strobe M291
+320-0064;Se ha interrumpido Strobe S
+320-0420;PLC: Campo index erróneo
+322-000d;Tabla de puestos probablemente inconsistente
+322-001c;Error del sistema en el PLC
+322-001e;Puesto en almacen de herramientas bloqueado
+PLC00010;Puerta  abierta!
+PLC00018;Ejes en limites de recorrido
+PLC00029;Rpm nominales del cabezal S1
+PLC00035;Sin Palpador en cabezal !
+PLC00050;M00 Stop programado
+PLC00051;M01 Stop condicional
+PLC00052;M03/M04 o M19/M20 necesarias
+PLC00054;Poti Avance = 0 !
+PLC00059;Funcion M no permitida
+PLC00099;Cola Submit/Spawn llena
+PLC00100;PLC Modulo 9221(1) - Error: 9 Orden de posicion ya ejecutada | ModErr: 6
+PLC00100;PLC Modulo 9342(1) - Error: 30 No contiene el nombre del campo (Fieldname)
+PLC00100;PLC Modulo 9413(1) - Error: 9 Orden de posicion ya ejecutada | ModErr: 2
+PLC00100;PLC Modulo 9412(1) - Error: 9 Orden de posicion ya ejecutada | ModErr: 2
+PLC00474;NECESARIO PULSADOR VOLANTE PARA TRABAJO CON CARENADO ABIERTO
+PLC00475;PARADA POR AUSENCIA DE PULSADOR EN VOLANTE
+PLC00491;LUBRICAR JUNTA ROTATIVA DEL AMARRADOR DE HERRAMIENTAS
+PLC00498;GIRO DE CABEZAL NO PERMITIDO
+PLC00499;PARADA DE AVANCES
+PLC00501;EMERGENCIA EXTERNA
+PLC00513;NIVEL MINIMO DE ACEITE DE ENGRASE GUÍAS
+PLC00517;AUTOMÁTICO DEL HIDRÁULICO SALTADO
+PLC00525;SOBREVELOCIDAD EN MOTORES DE AVANCES O MANDRINO
+PLC00526;PUERTAS NO OK
+PLC00532;ALMACÉN DE HERRAMIENTAS MAL POSICIONADO
+PLC00533;BOTONERA PORTATIL ATC EN MANUAL
+PLC00536;HUECO OCUPADO ALMACÉN HTAS
+PLC00538;FALLO PRESIÓN GENERAL DE AIRE
+PLC00557;ABRIR Y CERRAR CARENADO PARA CHEQUEO DE SEGURIDADES
+PLC00558;GIRO CABEZAL CUERPO 1 INTERRUMPIDO
+PLC00559;GIRO CABEZAL CUERPO 2 INTERRUMPIDO
+PLC00564;ORDEN GIRO DE MANDRINO CON CABEZAL DESBLOQUEADO
+PLC00583;NIVEL BAJO EN DEPOSITO TALADRINA
+PLC00584;NIVEL MINIMO EN DEPOSITO TALADRINA
+PLC00586;ABRIR CARENADO CE
+PLC00587;CERRAR CARENADO CE
+PLC00591;POSICIONAR CUERPO 1 A 0 GRADOS
+PLC00592;POSICIONAR CUERPO 2 A 0 GRADOS
+PLC00631;ORDEN DE GIRO MANDRINO SIN HTA.
+PLC00655;REAPRETAR PINZAS DE AMARRE DE HERRAMIENTA DEL CABEZAL COLOCADO
+PLC00658;PUERTA CARGA ALMACÉN ABIERTA
+PLC00661;DEPÓSITO DE RECUPERACIÓN DE ACEITE LLENO
+PLC00662;SOBRETEMPERATURA EN SONDAS DE TEMPERATURA
+PLC00667;EXCESO TIEMPO O PERDIDA DE PRESIÓN BLOQUEO BAYONETA/TETONES
+PLC00669;NIVEL MÁXIMO RECUPERACION RESIDUOS
+PLC00713;AUTOMATICO ASPIRACIÓN ACEITE DEL CABEZAL SALTADO
+PLC00733;EJE \
+PLC00739;CARENADO ABIERTO CON MODO 3 ACTIVO
+PLC00761;CAMBIO DE MODO DE TRABAJO NO PERMITIDO
+PLC00796;DIAL SALIDO DE POSICION
+PLC00801;FALLO OPERACIÓN 1 (DESBLOQUEO PASO 2.5 CUERPO 1)
+PLC00802;FALLO OPERACIÓN 2 (DESBLOQUEO PASO 2.4 CUERPO 1)
+PLC00804;FALLO OPERACIÓN 4 (BLOQUEO PASO 2.5 CUERPO 1)
+PLC00811;FALLO OPERACIÓN 11 (DESBLOQUEO PASO 2.5 CUERPO 2)
+PLC00814;FALLO OPERACIÓN 14 (BLOQUEO PASO 2.5 CUERPO 2)
+PLC00815;FALLO OPERACIÓN 15 (BLOQUEO PASO 2.4 CUERPO 2)
+PLC00821;FALLO OPERACIÓN 21. PULSOS DESBLOQUEO HERRAMIENTA INSUFICIENTES
+PLC00822;FALLO OPERACIÓN 22. PULSOS BLOQUEO HERRAMIENTA INSUFICIENTES
+PLC00827;FALLO DE CONTAJE EN EL ALMACÉN DE HERRAMIENTAS
+PLC00847;NIVEL MINIMO ACEITE ENGRASE CABEZAL
+PLC00848;ALARMA KEYENCE NO RESPONDE
+PLC00850;INTENTO GIRO CUERPO 1 CON CUERPO 2 DESBLOQUEADO
+PLC00851;INTENTO GIRO CUERPO 2 CON CUERPO 1 DESBLOQUEADO
+PLC00852;HERRAMIENTA MAL BLOQUEADA
+PLC00853;INTERRUPCION ATC 
+PLC00856;ALARMA EXCESO DE TIEMPO EN BLOQUEAR CUERPO 1
+PLC00857;ALARMA EXCESO DE TIEMPO EN BLOQUEAR CUERPO 2
+PLC00896;MODO MANTENIMIENTO ATC ACTIVADO
+PLC00898;MODO MANTENIMIENTO CABEZALES \
+PLC00899;MODO MANTENIMIENTO CABEZALES
+PLC00906;CARENADO ATC ABIERTO
+PLC00910;MODO MANTENIMIENTO DEL CAC (CAMBIADOR CABEZALES)
+PLC00911;EXTRACTOR DE HTA. CAMBIO MANUAL ACTIVADO
+PLC00928;PRESIÓN PARA LEVANTAR PISTÓN DESBLOQUEO HTA. INSUFICIENTE
+PLC00930;EXCESO DE TIEMPO EN REALIZAR EL CAMBIO DE HERRAMIENTAS (  E_0848/E_0872 4min)
+PLC00930;EXCESO DE TIEMPO EN REALIZAR EL CAMBIO DE HERRAMIENTAS (  E_0890 E_0844)
+PLC00930;EXCESO DE TIEMPO EN REALIZAR EL CAMBIO DE HERRAMIENTAS (  E_0890 E_0853)
+PLC00930;EXCESO DE TIEMPO EN REALIZAR EL CAMBIO DE HERRAMIENTAS (  E_0890 E_0848/E_0872)
+PLC00930;EXCESO DE TIEMPO EN REALIZAR EL CAMBIO DE HERRAMIENTAS (  E_0890 E_0852)
+PLC00930;EXCESO DE TIEMPO EN REALIZAR EL CAMBIO DE HERRAMIENTAS (  E_0890 E_0856)
+PLC00930;EXCESO DE TIEMPO EN REALIZAR EL CAMBIO DE HERRAMIENTAS (  4min)
+PLC00930;EXCESO DE TIEMPO EN REALIZAR EL CAMBIO DE HERRAMIENTAS (  E_0890 E_0845)
+PLC00930;EXCESO DE TIEMPO EN REALIZAR EL CAMBIO DE HERRAMIENTAS (  E_0848/E_0872)
+PLC00930;EXCESO DE TIEMPO EN REALIZAR EL CAMBIO DE HERRAMIENTAS (  E_0890)
+PLC00931;PROCESO EN EJECUCIÓN DETENIDO
+PLC00941;HERRAMIENTA DESCONOCIDA EN EL MANDRINO
+PLC00970;1º FALLO DETECTOR 1 ENGRASE RODAMIENTOS/ENGRANES
+PLC00971;2º FALLO DETECTOR 1 ENGRASE RODAMIENTOS/ENGRANES
+PLC00985;PRESURIZACION BLOQUEO CUERPOS CABEZAL ANULADA
+PLC00999;!!!!! ATENCION !!!!!! ATENCION !!!!! !!FUNCIONAMIENTO EXCLUSIVO DE EJES!!
+PLC01001;Retirar la hta. 162 (indice 0) del mandrino
+PLC01001;Retirar la hta. 185 (indice 0) del mandrino
+PLC01001;Retirar la hta. 78 (indice 0) del mandrino
+PLC01001;Retirar la hta. 53 (indice 0) del mandrino
+PLC01001;Retirar la hta. 19 (indice 0) del mandrino
+PLC01001;Retirar la hta. 26 (indice 0) del mandrino
+PLC01001;Retirar la hta. 76 (indice 0) del mandrino
+PLC01001;Retirar la hta. 116 (indice 0) del mandrino
+PLC01001;Retirar la hta. 165 (indice 0) del mandrino
+PLC01001;Retirar la hta. 18 (indice 0) del mandrino
+PLC01001;Retirar la hta. 122 (indice 0) del mandrino
+PLC01001;Retirar la hta. 98 (indice 0) del mandrino
+PLC01001;Retirar la hta. 21 (indice 0) del mandrino
+PLC01001;Retirar la hta. 11 (indice 0) del mandrino
+PLC01001;Retirar la hta. 171 (indice 0) del mandrino
+PLC01001;Retirar la hta. 68 (indice 0) del mandrino
+PLC01001;Retirar la hta. 63 (indice 0) del mandrino
+PLC01001;Retirar la hta. 33 (indice 0) del mandrino
+PLC01001;Retirar la hta. 90 (indice 0) del mandrino
+PLC01001;Retirar la hta. 62 (indice 0) del mandrino
+PLC01001;Retirar la hta. 115 (indice 0) del mandrino
+PLC01001;Retirar la hta. 65 (indice 0) del mandrino
+PLC01001;Retirar la hta. 158 (indice 0) del mandrino
+PLC01001;Retirar la hta. 164 (indice 0) del mandrino
+PLC01001;Retirar la hta. 155 (indice 0) del mandrino
+PLC01001;Retirar la hta. 4 (indice 0) del mandrino
+PLC01001;Retirar la hta. 157 (indice 0) del mandrino
+PLC01001;Retirar la hta. 207 (indice 0) del mandrino
+PLC01001;Retirar la hta. 124 (indice 0) del mandrino
+PLC01001;Retirar la hta. 217 (indice 0) del mandrino
+PLC01001;Retirar la hta. 159 (indice 0) del mandrino
+PLC01001;Retirar la hta. 38 (indice 0) del mandrino
+PLC01001;Retirar la hta. 28 (indice 0) del mandrino
+PLC01001;Retirar la hta. 196 (indice 0) del mandrino
+PLC01001;Retirar la hta. 146 (indice 0) del mandrino
+PLC01001;Retirar la hta. 83 (indice 0) del mandrino
+PLC01001;Retirar la hta. 40 (indice 0) del mandrino
+PLC01001;Retirar la hta. 58 (indice 0) del mandrino
+PLC01001;Retirar la hta. 212 (indice 0) del mandrino
+PLC01001;Retirar la hta. 128 (indice 0) del mandrino
+PLC01001;Retirar la hta. 203 (indice 0) del mandrino
+PLC01001;Retirar la hta. 211 (indice 0) del mandrino
+PLC01001;Retirar la hta. 201 (indice 0) del mandrino
+PLC01001;Retirar la hta. 1 (indice 0) del mandrino
+PLC01001;Retirar la hta. 133 (indice 0) del mandrino
+PLC01001;Retirar la hta. 108 (indice 0) del mandrino
+PLC01001;Retirar la hta. 48 (indice 0) del mandrino
+PLC01001;Retirar la hta. 25 (indice 0) del mandrino
+PLC01001;Retirar la hta. 144 (indice 0) del mandrino
+PLC01001;Retirar la hta. 167 (indice 0) del mandrino
+PLC01001;Retirar la hta. 147 (indice 0) del mandrino
+PLC01001;Retirar la hta. 183 (indice 0) del mandrino
+PLC01001;Retirar la hta. 161 (indice 0) del mandrino
+PLC01001;Retirar la hta. 80 (indice 0) del mandrino
+PLC01001;Retirar la hta. 119 (indice 0) del mandrino
+PLC01001;Retirar la hta. 72 (indice 0) del mandrino
+PLC01001;Retirar la hta. 91 (indice 0) del mandrino
+PLC01001;Retirar la hta. 195 (indice 0) del mandrino
+PLC01001;Retirar la hta. 180 (indice 0) del mandrino
+PLC01001;Retirar la hta. 42 (indice 0) del mandrino
+PLC01001;Retirar la hta. 82 (indice 0) del mandrino
+PLC01001;Retirar la hta. 9 (indice 0) del mandrino
+PLC01001;Retirar la hta. 140 (indice 0) del mandrino
+PLC01001;Retirar la hta. 169 (indice 0) del mandrino
+PLC01001;Retirar la hta. 39 (indice 0) del mandrino
+PLC01001;Retirar la hta. 149 (indice 0) del mandrino
+PLC01001;Retirar la hta. 93 (indice 0) del mandrino
+PLC01001;Retirar la hta. 14 (indice 0) del mandrino
+PLC01001;Retirar la hta. 35 (indice 0) del mandrino
+PLC01001;Retirar la hta. 70 (indice 0) del mandrino
+PLC01001;Retirar la hta. 187 (indice 0) del mandrino
+PLC01001;Retirar la hta. 47 (indice 0) del mandrino
+PLC01001;Retirar la hta. 84 (indice 0) del mandrino
+PLC01001;Retirar la hta. 104 (indice 0) del mandrino
+PLC01001;Retirar la hta. 170 (indice 0) del mandrino
+PLC01001;Retirar la hta. 27 (indice 0) del mandrino
+PLC01001;Retirar la hta. 178 (indice 0) del mandrino
+PLC01001;Retirar la hta. 49 (indice 0) del mandrino
+PLC01001;Retirar la hta. 51 (indice 0) del mandrino
+PLC01001;Retirar la hta. 191 (indice 0) del mandrino
+PLC01001;Retirar la hta. 172 (indice 0) del mandrino
+PLC01001;Retirar la hta. 186 (indice 0) del mandrino
+PLC01001;Retirar la hta. 66 (indice 0) del mandrino
+PLC01001;Retirar la hta. 85 (indice 0) del mandrino
+PLC01001;Retirar la hta. 81 (indice 0) del mandrino
+PLC01001;Retirar la hta. 31 (indice 0) del mandrino
+PLC01001;Retirar la hta. 24 (indice 0) del mandrino
+PLC01001;Retirar la hta. 126 (indice 0) del mandrino
+PLC01001;Retirar la hta. 12 (indice 0) del mandrino
+PLC01001;Retirar la hta. 61 (indice 0) del mandrino
+PLC01001;Retirar la hta. 188 (indice 0) del mandrino
+PLC01001;Retirar la hta. 15 (indice 0) del mandrino
+PLC01001;Retirar la hta. 60 (indice 0) del mandrino
+PLC01001;Retirar la hta. 143 (indice 0) del mandrino
+PLC01001;Retirar la hta. 99 (indice 0) del mandrino
+PLC01001;Retirar la hta. 100 (indice 0) del mandrino
+PLC01001;Retirar la hta. 210 (indice 0) del mandrino
+PLC01001;Retirar la hta. 87 (indice 0) del mandrino
+PLC01001;Retirar la hta. 16 (indice 0) del mandrino
+PLC01001;Retirar la hta. 56 (indice 0) del mandrino
+PLC01001;Retirar la hta. 123 (indice 0) del mandrino
+PLC01001;Retirar la hta. 43 (indice 0) del mandrino
+PLC01001;Retirar la hta. 102 (indice 0) del mandrino
+PLC01001;Retirar la hta. 112 (indice 0) del mandrino
+PLC01001;Retirar la hta. 152 (indice 0) del mandrino
+PLC01001;Retirar la hta. 200 (indice 0) del mandrino
+PLC01001;Retirar la hta. 13 (indice 0) del mandrino
+PLC01001;Retirar la hta. 54 (indice 0) del mandrino
+PLC01001;Retirar la hta. 130 (indice 0) del mandrino
+PLC01001;Retirar la hta. 89 (indice 0) del mandrino
+PLC01001;Retirar la hta. 145 (indice 0) del mandrino
+PLC01001;Retirar la hta. 17 (indice 0) del mandrino
+PLC01001;Retirar la hta. 106 (indice 0) del mandrino
+PLC01001;Retirar la hta. 71 (indice 0) del mandrino
+PLC01001;Retirar la hta. 46 (indice 0) del mandrino
+PLC01001;Retirar la hta. 216 (indice 0) del mandrino
+PLC01001;Retirar la hta. 181 (indice 0) del mandrino
+PLC01001;Retirar la hta. 110 (indice 0) del mandrino
+PLC01001;Retirar la hta. 41 (indice 0) del mandrino
+PLC01001;Retirar la hta. 30 (indice 0) del mandrino
+PLC01001;Retirar la hta. 6 (indice 0) del mandrino
+PLC01001;Retirar la hta. 107 (indice 0) del mandrino
+PLC01001;Retirar la hta. 209 (indice 0) del mandrino
+PLC01001;Retirar la hta. 55 (indice 0) del mandrino
+PLC01001;Retirar la hta. 34 (indice 0) del mandrino
+PLC01001;Retirar la hta. 202 (indice 0) del mandrino
+PLC01001;Retirar la hta. 50 (indice 0) del mandrino
+PLC01001;Retirar la hta. 79 (indice 0) del mandrino
+PLC01001;Retirar la hta. 141 (indice 0) del mandrino
+PLC01001;Retirar la hta. 32 (indice 0) del mandrino
+PLC01001;Retirar la hta. 214 (indice 0) del mandrino
+PLC01001;Retirar la hta. 113 (indice 0) del mandrino
+PLC01001;Retirar la hta. 10 (indice 0) del mandrino
+PLC01001;Retirar la hta. 67 (indice 0) del mandrino
+PLC01001;Retirar la hta. 37 (indice 0) del mandrino
+PLC01001;Retirar la hta. 215 (indice 0) del mandrino
+PLC01001;Retirar la hta. 74 (indice 0) del mandrino
+PLC01001;Retirar la hta. 154 (indice 0) del mandrino
+PLC01001;Retirar la hta. 73 (indice 0) del mandrino
+PLC01001;Retirar la hta. 88 (indice 0) del mandrino
+PLC01001;Retirar la hta. 23 (indice 0) del mandrino
+PLC01001;Retirar la hta. 44 (indice 0) del mandrino
+PLC01001;Retirar la hta. 208 (indice 0) del mandrino
+PLC01001;Retirar la hta. 127 (indice 0) del mandrino
+PLC01001;Retirar la hta. 168 (indice 0) del mandrino
+PLC01001;Retirar la hta. 114 (indice 0) del mandrino
+PLC01001;Retirar la hta. 75 (indice 0) del mandrino
+PLC01001;Retirar la hta. 189 (indice 0) del mandrino
+PLC01001;Retirar la hta. 213 (indice 0) del mandrino
+PLC01001;Retirar la hta. 69 (indice 0) del mandrino
+PLC01001;Retirar la hta. 136 (indice 0) del mandrino
+PLC01001;Retirar la hta. 22 (indice 0) del mandrino
+PLC01001;Retirar la hta. 160 (indice 0) del mandrino
+PLC01001;Retirar la hta. 64 (indice 0) del mandrino
+PLC01001;Retirar la hta. 101 (indice 0) del mandrino
+PLC01001;Retirar la hta. 205 (indice 0) del mandrino
+PLC01001;Retirar la hta. 59 (indice 0) del mandrino
+PLC01001;Retirar la hta. 142 (indice 0) del mandrino
+PLC01001;Retirar la hta. 94 (indice 0) del mandrino
+PLC01002;Retirar la hta actual del mandrino e insertar la hta 115 (indice 0)
+PLC01002;Retirar la hta actual del mandrino e insertar la hta 54 (indice 0)
+PLC01002;Retirar la hta actual del mandrino e insertar la hta 56 (indice 0)
+PLC01002;Retirar la hta actual del mandrino e insertar la hta 58 (indice 0)
+PLC01002;Retirar la hta actual del mandrino e insertar la hta 112 (indice 0)
+PLC01002;Retirar la hta actual del mandrino e insertar la hta 107 (indice 0)
+PLC01002;Retirar la hta actual del mandrino e insertar la hta 155 (indice 0)
+PLC01002;Retirar la hta actual del mandrino e insertar la hta 50 (indice 0)
+PLC01002;Retirar la hta actual del mandrino e insertar la hta 210 (indice 0)
+PLC01002;Retirar la hta actual del mandrino e insertar la hta 20 (indice 0)
+PLC01002;Retirar la hta actual del mandrino e insertar la hta 51 (indice 0)
+PLC01002;Retirar la hta actual del mandrino e insertar la hta 93 (indice 0)
+PLC01002;Retirar la hta actual del mandrino e insertar la hta 75 (indice 0)
+PLC01002;Retirar la hta actual del mandrino e insertar la hta 162 (indice 0)
+PLC01002;Retirar la hta actual del mandrino e insertar la hta 81 (indice 0)
+PLC01002;Retirar la hta actual del mandrino e insertar la hta 188 (indice 0)
+PLC01002;Retirar la hta actual del mandrino e insertar la hta 66 (indice 0)
+PLC01002;Retirar la hta actual del mandrino e insertar la hta 211 (indice 0)
+PLC01002;Retirar la hta actual del mandrino e insertar la hta 172 (indice 0)
+PLC01002;Retirar la hta actual del mandrino e insertar la hta 12 (indice 0)
+PLC01002;Retirar la hta actual del mandrino e insertar la hta 37 (indice 0)
+PLC01002;Retirar la hta actual del mandrino e insertar la hta 79 (indice 0)
+PLC01002;Retirar la hta actual del mandrino e insertar la hta 36 (indice 0)
+PLC01002;Retirar la hta actual del mandrino e insertar la hta 192 (indice 0)
+PLC01002;Retirar la hta actual del mandrino e insertar la hta 191 (indice 0)
+PLC01002;Retirar la hta actual del mandrino e insertar la hta 14 (indice 0)
+PLC01002;Retirar la hta actual del mandrino e insertar la hta 181 (indice 0)
+PLC01002;Retirar la hta actual del mandrino e insertar la hta 76 (indice 0)
+PLC01002;Retirar la hta actual del mandrino e insertar la hta 116 (indice 0)
+PLC01002;Retirar la hta actual del mandrino e insertar la hta 205 (indice 0)
+PLC01002;Retirar la hta actual del mandrino e insertar la hta 178 (indice 0)
+PLC01002;Retirar la hta actual del mandrino e insertar la hta 89 (indice 0)
+PLC01002;Retirar la hta actual del mandrino e insertar la hta 165 (indice 0)
+PLC01002;Retirar la hta actual del mandrino e insertar la hta 87 (indice 0)
+PLC01002;Retirar la hta actual del mandrino e insertar la hta 128 (indice 0)
+PLC01002;Retirar la hta actual del mandrino e insertar la hta 83 (indice 0)
+PLC01002;Retirar la hta actual del mandrino e insertar la hta 31 (indice 0)
+PLC01002;Retirar la hta actual del mandrino e insertar la hta 38 (indice 0)
+PLC01002;Retirar la hta actual del mandrino e insertar la hta 145 (indice 0)
+PLC01002;Retirar la hta actual del mandrino e insertar la hta 29 (indice 0)
+PLC01002;Retirar la hta actual del mandrino e insertar la hta 55 (indice 0)
+PLC01002;Retirar la hta actual del mandrino e insertar la hta 160 (indice 0)
+PLC01002;Retirar la hta actual del mandrino e insertar la hta 71 (indice 0)
+PLC01002;Retirar la hta actual del mandrino e insertar la hta 157 (indice 0)
+PLC01002;Retirar la hta actual del mandrino e insertar la hta 88 (indice 0)
+PLC01002;Retirar la hta actual del mandrino e insertar la hta 77 (indice 0)
+PLC01002;Retirar la hta actual del mandrino e insertar la hta 177 (indice 0)
+PLC01002;Retirar la hta actual del mandrino e insertar la hta 189 (indice 0)
+PLC01002;Retirar la hta actual del mandrino e insertar la hta 200 (indice 0)
+PLC01002;Retirar la hta actual del mandrino e insertar la hta 44 (indice 0)
+PLC01002;Retirar la hta actual del mandrino e insertar la hta 47 (indice 0)
+PLC01002;Retirar la hta actual del mandrino e insertar la hta 6 (indice 0)
+PLC01002;Retirar la hta actual del mandrino e insertar la hta 159 (indice 0)
+PLC01002;Retirar la hta actual del mandrino e insertar la hta 183 (indice 0)
+PLC01002;Retirar la hta actual del mandrino e insertar la hta 26 (indice 0)
+PLC01002;Retirar la hta actual del mandrino e insertar la hta 123 (indice 0)
+PLC01002;Retirar la hta actual del mandrino e insertar la hta 25 (indice 0)
+PLC01002;Retirar la hta actual del mandrino e insertar la hta 22 (indice 0)
+PLC01002;Retirar la hta actual del mandrino e insertar la hta 104 (indice 0)
+PLC01002;Retirar la hta actual del mandrino e insertar la hta 39 (indice 0)
+PLC01002;Retirar la hta actual del mandrino e insertar la hta 161 (indice 0)
+PLC01002;Retirar la hta actual del mandrino e insertar la hta 11 (indice 0)
+PLC01002;Retirar la hta actual del mandrino e insertar la hta 62 (indice 0)
+PLC01002;Retirar la hta actual del mandrino e insertar la hta 17 (indice 0)
+PLC01002;Retirar la hta actual del mandrino e insertar la hta 212 (indice 0)
+PLC01002;Retirar la hta actual del mandrino e insertar la hta 171 (indice 0)
+PLC01002;Retirar la hta actual del mandrino e insertar la hta 70 (indice 0)
+PLC01002;Retirar la hta actual del mandrino e insertar la hta 131 (indice 0)
+PLC01002;Retirar la hta actual del mandrino e insertar la hta 41 (indice 0)
+PLC01002;Retirar la hta actual del mandrino e insertar la hta 180 (indice 0)
+PLC01002;Retirar la hta actual del mandrino e insertar la hta 69 (indice 0)
+PLC01002;Retirar la hta actual del mandrino e insertar la hta 154 (indice 0)
+PLC01002;Retirar la hta actual del mandrino e insertar la hta 110 (indice 0)
+PLC01002;Retirar la hta actual del mandrino e insertar la hta 169 (indice 0)
+PLC01002;Retirar la hta actual del mandrino e insertar la hta 59 (indice 0)
+PLC01002;Retirar la hta actual del mandrino e insertar la hta 102 (indice 0)
+PLC01002;Retirar la hta actual del mandrino e insertar la hta 126 (indice 0)
+PLC01002;Retirar la hta actual del mandrino e insertar la hta 141 (indice 0)
+PLC01002;Retirar la hta actual del mandrino e insertar la hta 213 (indice 0)
+PLC01002;Retirar la hta actual del mandrino e insertar la hta 68 (indice 0)
+PLC01002;Retirar la hta actual del mandrino e insertar la hta 130 (indice 0)
+PLC01002;Retirar la hta actual del mandrino e insertar la hta 146 (indice 0)
+PLC01002;Retirar la hta actual del mandrino e insertar la hta 143 (indice 0)
+PLC01002;Retirar la hta actual del mandrino e insertar la hta 30 (indice 0)
+PLC01002;Retirar la hta actual del mandrino e insertar la hta 65 (indice 0)
+PLC01002;Retirar la hta actual del mandrino e insertar la hta 209 (indice 0)
+PLC01002;Retirar la hta actual del mandrino e insertar la hta 24 (indice 0)
+PLC01002;Retirar la hta actual del mandrino e insertar la hta 98 (indice 0)
+PLC01002;Retirar la hta actual del mandrino e insertar la hta 35 (indice 0)
+PLC01002;Retirar la hta actual del mandrino e insertar la hta 78 (indice 0)
+PLC01002;Retirar la hta actual del mandrino e insertar la hta 100 (indice 0)
+PLC01002;Retirar la hta actual del mandrino e insertar la hta 203 (indice 0)
+PLC01002;Retirar la hta actual del mandrino e insertar la hta 196 (indice 0)
+PLC01002;Retirar la hta actual del mandrino e insertar la hta 90 (indice 0)
+PLC01002;Retirar la hta actual del mandrino e insertar la hta 158 (indice 0)
+PLC01002;Retirar la hta actual del mandrino e insertar la hta 57 (indice 0)
+PLC01002;Retirar la hta actual del mandrino e insertar la hta 214 (indice 0)
+PLC01002;Retirar la hta actual del mandrino e insertar la hta 138 (indice 0)
+PLC01002;Retirar la hta actual del mandrino e insertar la hta 60 (indice 0)
+PLC01002;Retirar la hta actual del mandrino e insertar la hta 185 (indice 0)
+PLC01002;Retirar la hta actual del mandrino e insertar la hta 167 (indice 0)
+PLC01002;Retirar la hta actual del mandrino e insertar la hta 101 (indice 0)
+PLC01002;Retirar la hta actual del mandrino e insertar la hta 127 (indice 0)
+PLC01002;Retirar la hta actual del mandrino e insertar la hta 208 (indice 0)
+PLC01002;Retirar la hta actual del mandrino e insertar la hta 137 (indice 0)
+PLC01002;Retirar la hta actual del mandrino e insertar la hta 21 (indice 0)
+PLC01002;Retirar la hta actual del mandrino e insertar la hta 99 (indice 0)
+PLC01002;Retirar la hta actual del mandrino e insertar la hta 13 (indice 0)
+PLC01002;Retirar la hta actual del mandrino e insertar la hta 144 (indice 0)
+PLC01002;Retirar la hta actual del mandrino e insertar la hta 82 (indice 0)
+PLC01002;Retirar la hta actual del mandrino e insertar la hta 170 (indice 0)
+PLC01002;Retirar la hta actual del mandrino e insertar la hta 124 (indice 0)
+PLC01002;Retirar la hta actual del mandrino e insertar la hta 18 (indice 0)
+PLC01002;Retirar la hta actual del mandrino e insertar la hta 43 (indice 0)
+PLC01002;Retirar la hta actual del mandrino e insertar la hta 201 (indice 0)
+PLC01002;Retirar la hta actual del mandrino e insertar la hta 33 (indice 0)
+PLC01002;Retirar la hta actual del mandrino e insertar la hta 28 (indice 0)
+PLC01002;Retirar la hta actual del mandrino e insertar la hta 190 (indice 0)
+PLC01002;Retirar la hta actual del mandrino e insertar la hta 219 (indice 0)
+PLC01002;Retirar la hta actual del mandrino e insertar la hta 142 (indice 0)
+PLC01002;Retirar la hta actual del mandrino e insertar la hta 164 (indice 0)
+PLC01002;Retirar la hta actual del mandrino e insertar la hta 42 (indice 0)
+PLC01002;Retirar la hta actual del mandrino e insertar la hta 64 (indice 0)
+PLC01002;Retirar la hta actual del mandrino e insertar la hta 215 (indice 0)
+PLC01002;Retirar la hta actual del mandrino e insertar la hta 91 (indice 0)
+PLC01002;Retirar la hta actual del mandrino e insertar la hta 46 (indice 0)
+PLC01002;Retirar la hta actual del mandrino e insertar la hta 187 (indice 0)
+PLC01002;Retirar la hta actual del mandrino e insertar la hta 74 (indice 0)
+PLC01002;Retirar la hta actual del mandrino e insertar la hta 73 (indice 0)
+PLC01002;Retirar la hta actual del mandrino e insertar la hta 63 (indice 0)
+PLC01002;Retirar la hta actual del mandrino e insertar la hta 106 (indice 0)
+PLC01002;Retirar la hta actual del mandrino e insertar la hta 23 (indice 0)
+PLC01002;Retirar la hta actual del mandrino e insertar la hta 80 (indice 0)
+PLC01002;Retirar la hta actual del mandrino e insertar la hta 168 (indice 0)
+PLC01002;Retirar la hta actual del mandrino e insertar la hta 186 (indice 0)
+PLC01002;Retirar la hta actual del mandrino e insertar la hta 3 (indice 0)
+PLC01002;Retirar la hta actual del mandrino e insertar la hta 94 (indice 0)
+PLC01002;Retirar la hta actual del mandrino e insertar la hta 148 (indice 0)
+PLC01002;Retirar la hta actual del mandrino e insertar la hta 27 (indice 0)
+PLC01002;Retirar la hta actual del mandrino e insertar la hta 9 (indice 0)
+PLC01002;Retirar la hta actual del mandrino e insertar la hta 217 (indice 0)
+PLC01002;Retirar la hta actual del mandrino e insertar la hta 32 (indice 0)
+PLC01002;Retirar la hta actual del mandrino e insertar la hta 40 (indice 0)
+PLC01002;Retirar la hta actual del mandrino e insertar la hta 19 (indice 0)
+PLC01003;Colocar la hta 69 (indice 0) en el mandrino
+PLC01003;Colocar la hta 28 (indice 0) en el mandrino
+PLC01003;Colocar la hta 11 (indice 0) en el mandrino
+PLC01003;Colocar la hta 189 (indice 0) en el mandrino
+PLC01003;Colocar la hta 81 (indice 0) en el mandrino
+PLC01003;Colocar la hta 91 (indice 0) en el mandrino
+PLC01003;Colocar la hta 49 (indice 0) en el mandrino
+PLC01003;Colocar la hta 159 (indice 0) en el mandrino
+PLC01003;Colocar la hta 20 (indice 0) en el mandrino
+PLC01003;Colocar la hta 119 (indice 0) en el mandrino
+PLC01003;Colocar la hta 54 (indice 0) en el mandrino
+PLC01003;Colocar la hta 26 (indice 0) en el mandrino
+PLC01003;Colocar la hta 43 (indice 0) en el mandrino
+PLC01003;Colocar la hta 122 (indice 0) en el mandrino
+PLC01003;Colocar la hta 7 (indice 0) en el mandrino
+PLC01003;Colocar la hta 15 (indice 0) en el mandrino
+PLC01003;Colocar la hta 140 (indice 0) en el mandrino
+PLC01003;Colocar la hta 100 (indice 0) en el mandrino
+PLC01003;Colocar la hta 200 (indice 0) en el mandrino
+PLC01003;Colocar la hta 8 (indice 0) en el mandrino
+PLC01003;Colocar la hta 143 (indice 0) en el mandrino
+PLC01003;Colocar la hta 106 (indice 0) en el mandrino
+PLC01003;Colocar la hta 104 (indice 0) en el mandrino
+PLC01003;Colocar la hta 191 (indice 0) en el mandrino
+PLC01003;Colocar la hta 47 (indice 0) en el mandrino
+PLC01003;Colocar la hta 37 (indice 0) en el mandrino
+PLC01003;Colocar la hta 203 (indice 0) en el mandrino
+PLC01003;Colocar la hta 157 (indice 0) en el mandrino
+PLC01003;Colocar la hta 208 (indice 0) en el mandrino
+PLC01003;Colocar la hta 142 (indice 0) en el mandrino
+PLC01003;Colocar la hta 89 (indice 0) en el mandrino
+PLC01003;Colocar la hta 82 (indice 0) en el mandrino
+PLC01003;Colocar la hta 147 (indice 0) en el mandrino
+PLC01003;Colocar la hta 35 (indice 0) en el mandrino
+PLC01003;Colocar la hta 10 (indice 0) en el mandrino
+PLC01003;Colocar la hta 215 (indice 0) en el mandrino
+PLC01003;Colocar la hta 192 (indice 0) en el mandrino
+PLC01003;Colocar la hta 18 (indice 0) en el mandrino
+PLC01003;Colocar la hta 113 (indice 0) en el mandrino
+PLC01003;Colocar la hta 41 (indice 0) en el mandrino
+PLC01003;Colocar la hta 128 (indice 0) en el mandrino
+PLC01003;Colocar la hta 83 (indice 0) en el mandrino
+PLC01003;Colocar la hta 183 (indice 0) en el mandrino
+PLC01003;Colocar la hta 194 (indice 0) en el mandrino
+PLC01003;Colocar la hta 175 (indice 0) en el mandrino
+PLC01003;Colocar la hta 179 (indice 0) en el mandrino
+PLC01003;Colocar la hta 80 (indice 0) en el mandrino
+PLC01003;Colocar la hta 23 (indice 0) en el mandrino
+PLC01003;Colocar la hta 201 (indice 0) en el mandrino
+PLC01003;Colocar la hta 60 (indice 0) en el mandrino
+PLC01003;Colocar la hta 158 (indice 0) en el mandrino
+PLC01003;Colocar la hta 38 (indice 0) en el mandrino
+PLC01003;Colocar la hta 17 (indice 0) en el mandrino
+PLC01003;Colocar la hta 123 (indice 0) en el mandrino
+PLC01003;Colocar la hta 211 (indice 0) en el mandrino
+PLC01003;Colocar la hta 188 (indice 0) en el mandrino
+PLC01003;Colocar la hta 212 (indice 0) en el mandrino
+PLC01003;Colocar la hta 172 (indice 0) en el mandrino
+PLC01003;Colocar la hta 56 (indice 0) en el mandrino
+PLC01003;Colocar la hta 61 (indice 0) en el mandrino
+PLC01003;Colocar la hta 25 (indice 0) en el mandrino
+PLC01003;Colocar la hta 98 (indice 0) en el mandrino
+PLC01003;Colocar la hta 180 (indice 0) en el mandrino
+PLC01003;Colocar la hta 1 (indice 0) en el mandrino
+PLC01003;Colocar la hta 27 (indice 0) en el mandrino
+PLC01003;Colocar la hta 68 (indice 0) en el mandrino
+PLC01003;Colocar la hta 181 (indice 0) en el mandrino
+PLC01003;Colocar la hta 72 (indice 0) en el mandrino
+PLC01003;Colocar la hta 39 (indice 0) en el mandrino
+PLC01003;Colocar la hta 32 (indice 0) en el mandrino
+PLC01003;Colocar la hta 126 (indice 0) en el mandrino
+PLC01003;Colocar la hta 85 (indice 0) en el mandrino
+PLC01003;Colocar la hta 34 (indice 0) en el mandrino
+PLC01003;Colocar la hta 144 (indice 0) en el mandrino
+PLC01003;Colocar la hta 90 (indice 0) en el mandrino
+PLC01003;Colocar la hta 48 (indice 0) en el mandrino
+PLC01003;Colocar la hta 64 (indice 0) en el mandrino
+PLC01003;Colocar la hta 155 (indice 0) en el mandrino
+PLC01003;Colocar la hta 58 (indice 0) en el mandrino
+PLC01003;Colocar la hta 75 (indice 0) en el mandrino
+PLC01003;Colocar la hta 73 (indice 0) en el mandrino
+PLC01003;Colocar la hta 50 (indice 0) en el mandrino
+PLC01003;Colocar la hta 30 (indice 0) en el mandrino
+PLC01003;Colocar la hta 115 (indice 0) en el mandrino
+PLC01003;Colocar la hta 114 (indice 0) en el mandrino
+PLC01003;Colocar la hta 101 (indice 0) en el mandrino
+PLC01003;Colocar la hta 217 (indice 0) en el mandrino
+PLC01003;Colocar la hta 42 (indice 0) en el mandrino
+PLC01003;Colocar la hta 154 (indice 0) en el mandrino
+PLC01003;Colocar la hta 77 (indice 0) en el mandrino
+PLC01003;Colocar la hta 93 (indice 0) en el mandrino
+PLC01003;Colocar la hta 24 (indice 0) en el mandrino
+PLC01003;Colocar la hta 53 (indice 0) en el mandrino
+PLC01003;Colocar la hta 44 (indice 0) en el mandrino
+PLC01003;Colocar la hta 22 (indice 0) en el mandrino
+PLC01003;Colocar la hta 164 (indice 0) en el mandrino
+PLC01003;Colocar la hta 195 (indice 0) en el mandrino
+PLC01003;Colocar la hta 214 (indice 0) en el mandrino
+PLC01003;Colocar la hta 152 (indice 0) en el mandrino
+PLC01003;Colocar la hta 209 (indice 0) en el mandrino
+PLC01003;Colocar la hta 16 (indice 0) en el mandrino
+PLC01003;Colocar la hta 99 (indice 0) en el mandrino
+PLC01003;Colocar la hta 213 (indice 0) en el mandrino
+PLC01003;Colocar la hta 160 (indice 0) en el mandrino
+PLC01003;Colocar la hta 133 (indice 0) en el mandrino
+PLC01003;Colocar la hta 67 (indice 0) en el mandrino
+PLC01003;Colocar la hta 170 (indice 0) en el mandrino
+PLC01003;Colocar la hta 62 (indice 0) en el mandrino
+PLC01003;Colocar la hta 187 (indice 0) en el mandrino
+PLC01003;Colocar la hta 171 (indice 0) en el mandrino
+PLC01003;Colocar la hta 71 (indice 0) en el mandrino
+PLC01003;Colocar la hta 63 (indice 0) en el mandrino
+PLC01003;Colocar la hta 13 (indice 0) en el mandrino
+PLC01003;Colocar la hta 31 (indice 0) en el mandrino
+PLC01003;Colocar la hta 33 (indice 0) en el mandrino
+PLC01003;Colocar la hta 207 (indice 0) en el mandrino
+PLC01003;Colocar la hta 210 (indice 0) en el mandrino
+PLC01003;Colocar la hta 184 (indice 0) en el mandrino
+PLC01003;Colocar la hta 185 (indice 0) en el mandrino
+PLC01003;Colocar la hta 66 (indice 0) en el mandrino
+PLC01003;Colocar la hta 216 (indice 0) en el mandrino
+PLC01003;Colocar la hta 4 (indice 0) en el mandrino
+PLC01003;Colocar la hta 141 (indice 0) en el mandrino
+PLC01003;Colocar la hta 88 (indice 0) en el mandrino
+PLC01003;Colocar la hta 12 (indice 0) en el mandrino
+PLC01003;Colocar la hta 202 (indice 0) en el mandrino
+PLC01003;Colocar la hta 76 (indice 0) en el mandrino
+PLC01003;Colocar la hta 196 (indice 0) en el mandrino
+PLC01003;Colocar la hta 19 (indice 0) en el mandrino
+PLC01003;Colocar la hta 186 (indice 0) en el mandrino
+PLC01003;Colocar la hta 167 (indice 0) en el mandrino
+PLC01003;Colocar la hta 102 (indice 0) en el mandrino
+PLC01003;Colocar la hta 84 (indice 0) en el mandrino
+PLC01003;Colocar la hta 78 (indice 0) en el mandrino
+PLC01003;Colocar la hta 74 (indice 0) en el mandrino
+PLC01003;Colocar la hta 46 (indice 0) en el mandrino
+PLC01003;Colocar la hta 116 (indice 0) en el mandrino
+PLC01003;Colocar la hta 94 (indice 0) en el mandrino
+PLC01003;Colocar la hta 205 (indice 0) en el mandrino
+PLC01003;Colocar la hta 124 (indice 0) en el mandrino
+PLC01003;Colocar la hta 87 (indice 0) en el mandrino
+PLC01003;Colocar la hta 149 (indice 0) en el mandrino
+PLC01003;Colocar la hta 9 (indice 0) en el mandrino
+PLC01003;Colocar la hta 112 (indice 0) en el mandrino
+PLC01003;Colocar la hta 168 (indice 0) en el mandrino
+PLC01003;Colocar la hta 162 (indice 0) en el mandrino
+PLC01003;Colocar la hta 161 (indice 0) en el mandrino
+PLC01003;Colocar la hta 130 (indice 0) en el mandrino
+PLC01003;Colocar la hta 107 (indice 0) en el mandrino
+PLC01003;Colocar la hta 136 (indice 0) en el mandrino
+PLC01003;Colocar la hta 65 (indice 0) en el mandrino
+PLC01003;Colocar la hta 169 (indice 0) en el mandrino
+PLC01003;Colocar la hta 145 (indice 0) en el mandrino
+PLC01003;Colocar la hta 51 (indice 0) en el mandrino
+PLC01003;Colocar la hta 70 (indice 0) en el mandrino
+PLC01003;Colocar la hta 5 (indice 0) en el mandrino
+PLC01004;Emergencia maquina pulsada 'E2'(E_2302)  Loc: 'HR550'  Id: 'D10'
+PLC01004;Emergencia maquina pulsada 'E3'(E_2303)  Loc: 'ATC'  Id: 'M30-S21'
+PLC01004;Emergencia maquina pulsada : 'E1'(E_2301)  Loc: 'PANEL' / 'E2'(E_2302)  Loc: 'HR550' / 
+PLC01004;Emergencia maquina pulsada 'E1'(E_2301)  Loc: 'PANEL'  Id: 'D10-S41'
+PLC01004;Emergencia maquina pulsada 'E4'(E_2304)  Loc: 'EVACUADOR 1'  Id: 'D10-S53'
+PLC01004;Emergencia maquina pulsada : 'E1'(E_2301)  Loc: 'PANEL' / 'E3'(E_2303)  Loc: 'ATC' / 
+PLC01005;Puerta abierta del carenado 'S18'(E_2373)   Loc: 'FRONTAL DERECHA'   Id: 'D13'
+PLC01005;Puerta abierta del carenado : 'S17'(E_2372)  Loc: 'PUERTA PANEL' / 'S19'(E_2374)  Loc: 'FRONTAL IZQUIERDA' / 
+PLC01005;Puerta abierta del carenado 'S16'(E_2371)   Loc: 'PERSIANA'   Id: 'D13'
+PLC01005;Puerta abierta del carenado : 'S17'(E_2372) / 'S18'(E_2373) / 'S19'(E_2374) / 
+PLC01005;Puerta abierta del carenado : 
+PLC01005;Puerta abierta del carenado : 'S16'(E_2371)  Loc: 'PERSIANA' / 'S17'(E_2372)  Loc: 'PUERTA PANEL' / 
+PLC01005;Puerta abierta del carenado 'S19'(E_2374)   Loc: 'FRONTAL IZQUIERDA'   Id: 'D13'
+PLC01005;Puerta abierta del carenado : 'S18'(E_2373)  Loc: 'FRONTAL DERECHA' / 'S19'(E_2374)  Loc: 'FRONTAL IZQUIERDA' / 
+PLC01005;Puerta abierta del carenado : 'S17'(E_2372)  Loc: 'PUERTA PANEL' / 'S18'(E_2373)  Loc: 'FRONTAL DERECHA' / 
+PLC01005;Puerta abierta del carenado 'S19'(E_2372)   Loc: 'FRONT RIGHT'   Id: 'D13-S19'
+PLC01005;Puerta abierta del carenado 'S17'(E_2372)   Loc: 'PUERTA PANEL'   Id: 'D13'
+PLC01006;Sobrevelocidad en el eje 'X'
+PLC01006;Sobrevelocidad en el eje 'S'
+PLC01006;Sobrevelocidad en el eje 'Y'
+PLC01006;Sobrevelocidad en el eje 'Z'
+PY-00000;MG_Eng_Engranes_P2 -> True
+PY-00000;DG_Ax2_Velo -> 0
+PY-00000;DG_Radio_Plato -> 500
+PY-00000;MG_S2_Existe -> False
+PY-00000;MG_Existe_C1 -> True
+PY-00000;DG_C1_ZP_Min -> 99990000
+PY-00000;Error: Gama baja no detectada y Modo manual no activo
+PY-00000;Error: Gama baja no detectada
+PY-00000;DG_Offset_C1 -> 32900
+PY-00000;BG_Modelo -> 90
+PY-00000;DG_Voltaje_Bloq_C1 -> 0
+PY-00000;MG_Eje2_Giro -> False
+PY-00000;MG_Eng_Engranes_P1 -> True
+PY-00000;MG_Pos_Horz_Vert -> True
+PY-00000;BG_S2_Numero_Eje -> 0
+PY-00000;DG_Offset_C1 -> 24400
+PY-00000;DG_Aspiracion_MAX -> -60
+PY-00000;Error: Necesario Activar Emergencia
+PY-00000;MG_Eje1_Giro -> True
+PY-00000;DG_C1_Contador_Giros -> 14991
+PY-00000;MG_Engrase_Caja_ZF -> True
+PY-00000;DG_C2_ZP_Min -> 99990000
+PY-00000;DG_C2_Contador_Giros -> 16974
+PY-00000;MG_C1_es_Controlado -> False
+PY-00000;BG_Eje2_Numero -> -1
+PY-00000;MG_Eng_Engranes_P5 -> False
+PY-00000;DG_C2_Contador_Giros -> 15301
+PY-00000;MG_Pres_Alta -> False
+PY-00000;MG_Activo -> 0
+PY-00000;Error: Mandrino en movimiento ,Gama baja no detectada y Modo manual no activo
+PY-00000;BG_Eje1_Numero_tecla_mas -> 0
+PY-00000;DG_Sent_C1C2 -> -1
+PY-00000;BG_Turning_Spindle -> -1
+PY-00000;MG_C2_es_Controlado -> False
+PY-00000;DG_Aspiracion_MIN -> -25
+PY-00000;BG_N_Preset -> 1
+PY-00000;MG_Eng_engranes_AireAceite -> True
+PY-00000;MG_Bloq_Hta_con_detectores -> False
+PY-00000;Error: Modo manual no activo
+PY-00000;Error: Mandrino en movimiento y Modo manual no activo
+PY-00000;BG_PTYP -> 0
+PY-00000;WG_Voltaje_Hta_Blq_sin_hta -> 0
+PY-00000;BG_Potencia_Torno -> 0
+PY-00000;MG_Plato_Vert_Pos_1 -> False
+PY-00000;MG_Eng_Engranes_P3 -> False
+PY-00000;Error: ATC en funcionamiento
+PY-00000;MG_Tope_ATC_Pos_Mandrino -> False
+PY-00000;DG_Tiempo_max_engrase -> 60000
+PY-00000;BG_Eje1_Numero_tecla_menos -> 28
+PY-00000;BG_Modelo -> 13
+PY-00000;BG_C1_Numero_eje -> 5
+PY-00000;BG_C1_tecla_mas -> 0
+PY-00000;BG_S2_Numero_Spindle -> 0
+PY-00000;Error: Codigo incorrecto
+PY-00000;MG_Inhibe_Cambio_Horz_HTAS -> False
+PY-00000;MG_Caida_Vuelco_compensada -> False
+PY-00000;DG_Offset_C2 -> 22800
+PY-00000;DG_Tiempo_engrase -> 129600
+PY-00000;DG_Lubricar_Junta_Cab -> 40
+PY-00000;DG_Offset_C2 -> 22400
+PY-00000;DG_Sent_C2 -> -1
+PY-00000;MG_Eng_Engranes_A2 -> False
+PY-00000;DG_C1_Contador_Giros -> 13431
+PY-00000;MG_Existe_C2 -> True
+PY-00000;BG_Tipo_engrase -> 0
+PY-00000;BG_Eje2_Numero_tecla_menos -> -1
+PY-00000;MG_Eje2_Existe -> False
+PY-00000;MG_Eng_Engranes_P4 -> False
+PY-00000;BG_Eje1_Numero -> 3
+PY-00000;DG_Sent_C1 -> -1
+PY-00000;DG_Caudal_MIN_Refrigeracion -> 0
+PY-00000;DG_Dentado_C1 -> 200
+PY-00000;BG_C2_Numero_eje -> 6
+PY-00000;BG_Eje2_Numero_tecla_mas -> -1
+PY-00000;DG_C1_Contador_Giros -> 16752
+PY-00000;DG_Velo_Max_Giro_C2 -> 15
+PY-00000;BG_C2_tecla_mas -> 0
+PY-00000;DG_Caudal_MAX_Refrigeracion -> 0
+PY-00000;Numero erroneo. Introduce un numero entre 0 y 60
+PY-00000;DG_C2_ZP_Max -> 99990000
+PY-00000;DG_C1_Contador_Giros -> 16421
+PY-00000;DG_Eng_Engranes_tiempo -> 30000
+PY-00000;DG_Dentado_C2 -> 200
+PY-00000;MG_Aspiracion -> True
+PY-00000;BG_Tipo_Hidraulico -> 0
+PY-00000;MG_Eng_Engranes_A1 -> True
+PY-00000;DG_C1_ZP_Max -> 99990000
+PY-00000;MG_Plato_Vert_Pos_2 -> False
+PY-00000;DG_C2_Contador_Giros -> 21874
+PY-00000;MG_Eje1_Existe -> True
+PY-00000;DG_Voltaje_Desbloq_C2 -> 0
+PY-00000;DG_Offset_C1 -> 25000
+PY-00000;WG_Voltaje_Hta_Blq_con_hta -> 0
+PY-00000;MG_Pres_Baja -> True
+PY-00000;DG_Apriete_Pinzas_Cab -> 160
+PY-00000;DG_Velo_Max_Giro_C1 -> 15
+PY-00000;MG_Inhibe_Giro_con_ATC -> False
+PY-00000;DG_C1_Contador_Giros -> 16854
+PY-00000;DG_Voltaje_Bloq_C2 -> 0
+PY-00000;MG_Configurado -> False
+PY-00000;DG_Voltaje_Desbloq_C1 -> 0
+PY-00000;DG_Offset_C2 -> 21000
+PY-00000;MG_Conmuta_param_S1 -> False
+PY-00000;DG_C1_Contador_Giros -> 13920
+PY-00000;MG_Eng_Engranes_Grasa -> False
+PY-00000;BG_C1_tecla_menos -> 0
+PY-00000;MG_Eng_Engranes_Manual -> False
+PY-00000;DG_C1_Contador_Giros -> 12540
+PY-00000;MG_Existe -> True
+PY-00000;MG_Inhibe_Cambio_Vert_HTAS -> False
+PY-00000;DG_Ax1_Velo -> 0
+PY-00000;DG_C2_Contador_Giros -> 16387
+PY-00000;BG_C2_tecla_menos -> 0
+PY-00000;BG_Codigo -> 13
